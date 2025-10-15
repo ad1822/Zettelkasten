@@ -1,0 +1,130 @@
+/* CyanVoxel's General Tweaks */
+
+.theme-light,
+.theme-dark {
+  --link-decoration: none;
+}
+
+
+/* For notes with cssclasses: [center-titles] */
+.center-titles hr {
+  border: none;              /* remove default */
+  border-top: 2px solid #cba6f7 ; /* custom line */
+  margin: 1.5em auto;        /* spacing */
+  width: 60%;                /* shorter line */
+}
+
+h1 {
+  margin-top: 20px !important;
+}
+
+
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.image-borders img {
+}
+
+.markdown-preview-view img {
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 6px;
+}
+
+.callout {
+  border-radius: 12px;
+  border-width: 2px;
+}
+
+.task-list-item-checkbox {
+  border-width: 2px;
+}
+
+#calendar-container .title {
+  font-size: 18px;
+}
+
+.center-images img {
+  border: solid;
+  border-width: 1em;
+  border-width: 2px;
+  border-radius: 20px;
+  border-color: #f38ba8 ;
+  display: block !important;
+  filter: brightness(1.05) 
+  contrast(1.1) 
+  saturate(1.1) 
+  sepia(0.1) 
+  hue-rotate(-5deg);
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 400px; /* Sets a fixed width of 300 pixels */
+  height: auto;
+}
+
+.no-embed-border {
+  --embed-border-left: 0px solid black !important;
+}
+
+/* .markdown-preview-view */
+.markdown-preview-view {
+  border-radius: 6px;
+}
+
+.center-titles h1,
+.center-titles .HyperMD-header.HyperMD-header-1 {
+  text-align: center;
+  color: #f38ba8 ;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+}
+
+
+.center-titles .cm-line {
+  color: white;
+}
+
+
+
+.center-titles h2,
+.center-titles .HyperMD-header.HyperMD-header-2 {
+  text-align: center;
+  color: #f9e2af ;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+}
+
+.center-titles h3,
+.center-titles .HyperMD-header.HyperMD-header-3 {
+  text-align: center;
+  color: #a6e3a1 ;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+}
+
+.center-titles h4,
+.center-titles .HyperMD-header.HyperMD-header-4 {
+  text-align: center;
+  color: #b4befe ;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+}
+
+.center-titles h5,
+.center-titles .HyperMD-header.HyperMD-header-5 {
+  text-align: center;
+  color: #94e2d5 ;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+}
+
+.center-titles h6,
+.center-titles .HyperMD-header.HyperMD-header-6 {
+  text-align: center;
+  color: #74c7ec ;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+}
+
+code {
+  /* font-family: "Iosevka Nerd Font", monospace; */
+}

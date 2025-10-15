@@ -1,0 +1,104 @@
+/* ===========================================================
+   Obsidian Homepage Styling — Combined UI Snippet
+   Includes: Dataview Buttons + Tag Cloud
+   Author: Adapted for Ayush Dumasia
+   =========================================================== */
+
+/* === GLOBAL CONTAINER STYLING === */
+.breadcrumbs-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 12px;
+  margin-bottom: 18px;
+  height: auto;
+}
+
+/* === ELEGANT BUTTONS (Today / This Week) === */
+.ready.elegant-btn {
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 10px 24px;
+  border-radius: 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: rgba(255, 255, 255, 0.08);
+  color: #eaeaea;
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+
+  transition: all 0.25s ease;
+}
+
+.theme-dark .ready.elegant-btn {
+  border: 2px solid #333;
+  box-shadow: 6px 6px 3px 3px black;
+}
+
+.ready.elegant-btn:hover {
+  background-color: rgba(255, 255, 255, 0.18);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
+}
+
+.theme-dark .ready.elegant-btn:hover {
+  box-shadow: 0px 0px 0px 0px black;
+}
+
+.ready.elegant-btn:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+}
+
+/* === MONTHLY BUTTONS (if you add monthly view later) === */
+.ready.monthly-btn {
+  display: inline-block;
+  padding: 0.18rem 1.8rem;
+  font-weight: 500;
+  color: var(--text-normal);
+  border: 3px solid var(--color-accent);
+  cursor: pointer;
+  position: relative;
+  background-color: transparent;
+  text-decoration: none;
+  overflow: hidden;
+  z-index: 1;
+  width: 6em;
+  text-align: center;
+  transition: color .3s;
+}
+
+.ready.monthly-btn.current-month {
+  color: var(--text-accent-hover) !important;
+}
+
+.ready.monthly-btn.not-exist {
+  color: var(--text-muted) !important;
+}
+
+.ready.monthly-btn::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-accent);
+  transform: translateX(-100%);
+  z-index: -1;
+  transition: all .3s;
+}
+
+.ready.monthly-btn:hover {
+  color: var(--background-primary) !important;
+}
+
+.ready.monthly-btn:hover::before {
+  transform: translateX(0);
+}
+
+/* ===========================================================
+   TAG CLOUD S
