@@ -1,0 +1,4 @@
+.stfolder/
+.stignore
+.obsidian/*
+!.obsidian/snippets

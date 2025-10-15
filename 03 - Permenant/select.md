@@ -1,0 +1,28 @@
+---
+cssclasses:
+  - center-images
+  - center-titles
+---
+Created: Sunday 28th September 2025 10:09:18
+Tags: #golang 
+
+# select
+
+Sometimes we have a single goroutine listening to multiple channels and want to process data in the order it comes through each channel.
+
+A select statement is used to listen to multiple channels at the same time. It is similar to a switch statement but for channels.
+
+```go
+select {
+case i, ok := <- chInts:
+    fmt.Println(i)
+case s, ok := <- chStrings:
+    fmt.Println(s)
+}
+```
+
+The first channel with a value ready to be received will fire and its body will execute
+If multiple channels are ready at the same time one is chosen randomly
+
+---
+## References
