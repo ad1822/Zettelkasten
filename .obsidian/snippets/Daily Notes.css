@@ -1,124 +1,157 @@
-/* dailyBetween.css */
+/*------------------------------------------------------------------------------
+                     Daily Note Themes by CyanVoxel v1.0.5
 
-.breadcrumbs-wrapper {
-display: flex;
-justify-content: center; /* center buttons together */
-gap: 1rem; /* controls spacing between buttons */
-margin-top: 12px;
-margin-bottom: 18px;
-height: auto;
+These are a set of 7 main CSS classes that can be used to apply individual color
+schemes to daily notes for each day of the week.
+To customize the colors for each day, just swamp out the colors values under
+the main "day of the week" classes.
+
+NOTE: By default, this snippet relies on the "Bai Jamjuree" or
+"Iosevka Nerd Font" fonts. If you don't wish to use these, then just
+change or remove those font-family lines from this snippet.
+                
+------------------------------------------------------------------------------*/
+:root {
+  --highlight: #ffffff;
+  --primary: #ffffff;
+  --dark: #333333;
 }
 
-.ready.elegant-btn {
-text-decoration: none; /* remove underline */
-font-size: 1rem;
-padding: 10px 24px;
-border-radius: 12px; /* rounded corners */
-display: inline-flex;
-align-items: center;
-justify-content: center;
+.daily {
+  --dark: var(--dark);
+  color: var(--highlight);
+  background-color: var(--dark);
+  --text-normal: var(--highlight);
+  --text-muted: var(--highlight);
+  --text-faint: var(--highlight);
+  --checklist-done-color: var(--highlight);
+  --metadata-label-text-color: var(--highlight);
+  --metadata-input-text-color: var(--highlight);
+  /* --tag-color: var(--dark); */
+  /* --tag-background: var(--primary); */
+  --hr-color: var(--primary);
+  --blockquote-border-color: var(--primary);
+  --interactive-accent: var(--primary);
+  --collapse-icon-color-collapsed: var(--primary);
+  --checkbox-color: var(--primary);
+  --checkbox-marker-color: var(--dark);
+  --checkbox-color-hover: var(--highlight);
+  --checkbox-border-color: var(--highlight);
+  --list-marker-color: var(--highlight);
+  --code-background: black;
+  --code-normal: var(--primary);
 
-background-color: rgba(255, 255, 255, 0.08); /* subtle translucent white */
-color: #eaeaea; /* light text */
-border: 1.5px solid rgba(255, 255, 255, 0.15); /* faint border */
-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6); /* soft shadow for depth */
-backdrop-filter: blur(4px); /* gives that nice glassy feel */
-
-transition: all 0.25s ease;
+  --background-modifier-border-focus: var(--primary);
+  --background-modifier-border: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --background-modifier-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
+  --pill-cover-hover: color-mix(in srgb, var(--highlight) 60%, transparent);
 }
 
-/* 暗色主题的阴影颜色 */
-.theme-dark .ready.elegant-btn {
-border: 2px solid #333;
-box-shadow: 6px 6px 3px 3px black;
+.sunday, .Sunday {
+  --highlight: #f39caa;
+  --primary: #f6466f;
+  --dark: #2d0916;
+}
+.monday, .Monday {
+  --highlight: #fcadaa;
+  --primary: #f65848;
+  --dark: #3c0e0b;
+}
+.tuesday, .Tuesday {
+  --highlight: #aedbfa;
+  --primary: #3b87f0;
+  --dark: #070615;
+}
+.wednesday, .Wednesday {
+  --highlight: #fff3c4;
+  --primary: #ffd63d;
+  --dark: #2c1404;
+}
+.thursday, .Thursday {
+  --highlight: #f7b79b;
+  --primary: #ed6022;
+  --dark: #210b04;
+}
+.friday, .Friday {
+  --highlight: #e9f9b7;
+  --primary: #92e649;
+  --dark: #192108;
+}
+.saturday, .Saturday{
+  --highlight: #f39caa;
+  --primary: #e22c3c;
+  --dark: #100305;
 }
 
-.ready.elegant-btn:hover {
-text-decoration: none; /* remove underline */
-background-color: rgba(255, 255, 255, 0.18);
-transform: translateY(-2px);
-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
+.daily :is(h1, .HyperMD-header.HyperMD-header-1) {
+  color: var(--primary);
+  text-align: center;
+  /* font-size: 60px; */
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  padding: 0 !important;
+}
+.daily :is(h2, .HyperMD-header.HyperMD-header-2) {
+  color: var(--highlight);
+  text-align: center;
+  font-size: 30px;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  font-style: italic;
+  padding: 0 !important;
+}
+.daily :is(h3, .HyperMD-header.HyperMD-header-3) {
+  color: var(--primary);
+  text-align: center;
+
+  font-size: 32px;
+  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  padding-top: 0;
+}
+.daily :is(h4, .HyperMD-header.HyperMD-header-4) {
+  /* background-color: var(--primary); */
+  color: var(--dark);
+  /* border-color: var(--primary); */
+  /* font-family: "Iosevka Nerd Font", "JetBrains Mono", monospace; */
+  font-weight: 900;
+  margin-bottom: 0;
+  padding-top: 0;
+  font-size: 20px;
+  width: fit-content;
+  padding-left: 6px;
+  padding-right: 6px;
+  /* border: solid; */
+  border-radius: 8px;
+  /* border-width: 2px; */
+  word-wrap: normal;
+}
+.daily p {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.daily :is(a:link, .cm-hmd-internal-link) {
+  color: var(--primary);
+}
+.daily :is(a:hover, .cm-hmd-internal-link:hover) {
+  color: var(--highlight);
+}
+.daily hr {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
 }
 
-.theme-dark .ready.elegant-btn:hover {
-box-shadow: 0px 0px 0px 0px black;
+.daily img {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-/* Active/pressed state — subtle sink in */
-.ready.elegant-btn:active {
-transform: translateY(0);
-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
-}
-
-.dv-prev-dates > span {
-display: flex;
-justify-content: space-around;
-margin-bottom: 8px;
-}
-
-/* .block-language-dataviewjs.node-insert-event > p {
-line-height: 1.5;
-} */
-
-.block-language-dataviewjs.node-insert-event .dataview.table-view-table {
-margin-top: 10px;
-margin-bottom: 10px;
-}
-
-
-/* 每月按钮做的样式 */
-
-.ready.monthly-btn {
-display: inline-block;
-padding: 0.18rem 1.8rem;
-/*font-size: 16px;*/
-font-weight: 500;
-color: var(--text-normal);
-border: 3px solid var(--color-accent);
-cursor: pointer;
-position: relative;
-background-color: transparent;
-text-decoration: none;
-overflow: hidden;
-z-index: 1;
-font-family: inherit;
-
-/*固定按钮大小并居中文本*/
-width: 6em;
-text-align: center;
-
-transition: color .3s;
-}
-
-/* 当前月份的按钮的特殊样式 */
-.ready.monthly-btn.current-month {
-color: var(--text-accent-hover) !important;
-}
-
-/* 尚未创建按钮的特殊样式 */
-.ready.monthly-btn.not-exist {
-color: var(--text-muted) !important;
-}
-
-/* 浮动的效果 */
-.ready.monthly-btn::before {
-content: "";
-position: absolute;
-left: 0;
-top: 0;
-width: 100%;
-height: 100%;
-background-color: var(--color-accent);
-transform: translateX(-100%);
-z-index: -1;
-
-transition: all .3s;
-}
-
-.ready.monthly-btn:hover {
-color: var(--background-primary) !important;
-}
-
-.ready.monthly-btn:hover::before {
-transform: translateX(0);
+:is(.sunday, .Sunday,
+.monday, .Monday,
+.tuesday, .Tuesday,
+.wednesday, .Wednesday,
+.thursday, .Thursday,
+.friday, .Friday,
+.saturday, .Saturday
+  )
+  svg {
+  color: color-mix(in srgb, var(--highlight) 60%, transparent);
 }
