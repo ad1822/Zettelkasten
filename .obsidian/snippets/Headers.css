@@ -9,19 +9,18 @@
 /* For notes with cssclasses: [center-titles] */
 .center-titles hr {
   border: none;              /* remove default */
-  border-top: 2px solid #cba6f7 ; /* custom line */
-  margin: 1.5em auto;        /* spacing */
-  width: 60%;                /* shorter line */
+  border-top: 2px double #a6e3a1     !important ; /* custom line */
+  margin: auto auto;        /* spacing */
+  width: 60% !important;                /* shorter line */
 }
 
 h1 {
   margin-top: 20px !important;
 }
 
-
-hr {
-  margin-top: 10px;
-  margin-bottom: 10px;
+input[type="checkbox"] {
+  border-radius : 100%;
+  background-color : white;
 }
 
 .image-borders img {
@@ -80,7 +79,7 @@ img {
 .center-titles .HyperMD-header.HyperMD-header-1 {
   text-align: center;
   color: #f38ba8 ;
-  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 
@@ -94,37 +93,37 @@ img {
 .center-titles .HyperMD-header.HyperMD-header-2 {
   text-align: center;
   color: #f9e2af ;
-  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h3,
 .center-titles .HyperMD-header.HyperMD-header-3 {
   text-align: center;
   color: #a6e3a1 ;
-  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h4,
 .center-titles .HyperMD-header.HyperMD-header-4 {
   text-align: center;
   color: #b4befe ;
-  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h5,
 .center-titles .HyperMD-header.HyperMD-header-5 {
   text-align: center;
   color: #94e2d5 ;
-  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h6,
 .center-titles .HyperMD-header.HyperMD-header-6 {
   text-align: center;
   color: #74c7ec ;
-  font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono";
+  /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 code {
-  /* font-family: "Iosevka Nerd Font", monospace; */
+  font-family: "Iosevka Nerd Font", monospace;
 }

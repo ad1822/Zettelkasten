@@ -1,0 +1,30 @@
+.workspace-tab-header-new-tab {
+  visibility: hidden;
+}
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before, .nav-folder .nav-folder-title .nav-folder-title-content::before {
+  margin-right : 0px;
+  visibility: hidden;
+}
+
+
+.tree-item-icon.collapse-icon {
+  display: none !important;
+}
+
+/* .tree-item-inner,  */
+/* .nav-folder-title-content { */
+/*   color : #cdd6f4  ; */
+/*   font-weight : bold; */
+/* } */
+
+
+
+
+.tree-item-self, .mod-collapsible {
+  padding-left : 0px;
+}
+
+.nav-folder-title {
+  padding-left : 0px;
+}
+

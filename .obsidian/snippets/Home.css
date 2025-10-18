@@ -1,15 +1,24 @@
 /* === RECENT FILES PANEL === */
-h4 {
-  text-align: center;
-  font-weight: 600;
+h2 {
+  /* text-align: center; */
+  font-weight: 1000;
   margin-bottom: 0.3em;
+  color:  #f38ba8 !important;;
+}
+
+hr {
+  border: none;              /* remove default */
+  border-top: 2px double #a6e3a1     !important ; /* custom line */
+  margin: 1.5em auto;        /* spacing */
+  width: 60%;                /* shorter line */
 }
 
 /* ==== RECENT FILES ==== */
 .recent-files-container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content : center;
+  align-items : start;
   gap: 6px;
   padding: 8px 12px;
   background-color: var(--background-primary-alt);
@@ -21,7 +30,7 @@ h4 {
 .recent-header {
   margin-bottom: 8px;
   font-size: 1.05em;
-  color: var(--text-normal);
+  /* color: var(--text-normal); */
   border-bottom: 1px solid var(--background-modifier-border);
   padding-bottom: 4px;
   letter-spacing: 0.25px;
@@ -42,7 +51,7 @@ h4 {
 }
 
 .recent-file {
-  color: var(--link-color);
+  /* color: var(--link-color); */
   text-decoration: none;
   font-weight: 500;
   font-size: 0.95em;
@@ -54,7 +63,7 @@ h4 {
 
 .recent-date {
   font-size: 0.8em;
-  color: var(--text-muted);
+  /* color: var(--text-muted); */
 }
 
 /* ==== TASKS ==== */
@@ -65,8 +74,8 @@ h4 {
   margin-bottom: 0.6em;
   border-bottom: 1px solid var(--background-modifier-border);
   padding-bottom: 4px;
-  text-align: center;
-  color: var(--text-normal);
+  /* text-align: center; */
+  /* color: var(--text-normal); */
 }
 
 ul.contains-task-list {
@@ -92,46 +101,42 @@ ul.contains-task-list {
 
 .contains-task-list .task-list-item.is-checked {
   text-decoration: line-through;
-  color: var(--text-muted);
+  /* color: var(--text-muted); */
 }
 
 
 
 /* --- TODAY BUTTON --- */
-.button-container {
-    display: flex;
-    justify-content: center;
-    margin: 10px 0;
+.elegant-btn.ready {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 0.9em;
+  font-weight: 500;
+  text-decoration: none !important;
+  color: var(--text-normal);
+  background-color: var(--background-modifier-hover);
+  border: 1px solid var(--background-modifier-border);
+  transition: all 0.2s ease-in-out;
 }
 
-.today-btn {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-    font-size: 0.95em;
-    padding: 8px 20px;
-    border-radius: 12px;
-    background-color: rgba(255, 255, 255, 0.08);
-    color: black;
-    border: 1.5px solid rgba(255, 255, 255, 0.15);
-    box-shadow: 0 2px 6px rgba(0,0,0,0.4);
-    backdrop-filter: blur(4px);
-    transition: all 0.25s ease;
+/* Hover and active states */
+.elegant-btn.ready:hover {
+  /* background-color: var(--interactive-accent); */
+  color: var(--text-on-accent);
+  transform: translateY(-1px);
 }
 
-.today-btn:hover {
-    background-color: rgba(255, 255, 255, 0.18);
-    transform: translateY(-2px);
+.elegant-btn.ready:active {
+  transform: translateY(0);
+  opacity: 0.9;
 }
 
-.theme-dark .today-btn {
-    border: 2px solid #333;
-    box-shadow: 4px 4px 6px rgba(0,0,0,0.5);
-}
-
-.theme-dark .today-btn:hover {
-    box-shadow: 0px 0px 0px 0px black;
+.breadcrumbs-wrapper {
+  display: flex;
+  justify-content: flex-start;
 }
 
 /* TAGS */
