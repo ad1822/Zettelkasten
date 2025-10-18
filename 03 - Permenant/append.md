@@ -18,4 +18,3 @@ slice = append(slice, firstThing, secondThing)
 slice = append(slice, anotherSlice...)
 ```
 ---
-## References

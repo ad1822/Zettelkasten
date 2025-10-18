@@ -1,8 +1,4 @@
 ---
-editor-width: 100
-banner: "![[banner.jpeg]]"
-cssclasses:
-  - hide-properties (custom snippet as i have properties shown by default)
 ---
 
 ```dataviewjs
@@ -15,7 +11,7 @@ const dailyPath = `${dailyFolder}${today.toFormat(dateFormat)}`;
 
 // === BUTTONS ===
 let content = "";
-content += `<a class="internal-link elegant-btn ready" href="${dailyPath}">📅 Today</a>`;
+content += `<a class="internal-link elegant-btn ready" href="${dailyPath}">Today</a>`;
 
 // === OUTPUT ===
 dv.el("div", `<div class="breadcrumbs-wrapper">${content}</div>`); // needs DV-button snippet
@@ -24,7 +20,7 @@ dv.el("div", `<div class="breadcrumbs-wrapper">${content}</div>`); // needs DV-b
 
 ```dataviewjs
 // === Recent Notes Section ===
-dv.el("h4", " Recent Notes ", { cls: "recent-header" });
+dv.el("h2", "Recent Notes ", { cls: "recent-header" });
 
 const recent = dv.pages()
   .sort(p => p.file.mtime, 'desc')
@@ -48,7 +44,7 @@ for (const page of recent) {
 ```
 ```dataviewjs
 // === Todo Section ===
-dv.el("h4", " Todo", { cls: "section-header" });
+dv.el("h2", "Todo", { cls: "section-header" });
 dv.taskList(
   dv.pages().file.tasks
     .where(t => !t.completed)
@@ -58,8 +54,7 @@ dv.taskList(
 ---
 ```dataviewjs
 // Create container (Needs Tag-Edit snippet)
-
-dv.el("h4", "Tags", { cls: "section-header" });
+dv.el("h2", "Tags", { cls: "section-header" });
 let container = dv.el("div", "", {cls: "tag-cloud-container"});
 
 // Get all pages

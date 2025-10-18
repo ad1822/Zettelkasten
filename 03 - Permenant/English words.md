@@ -8,6 +8,8 @@ Tags: #book
 
 # English words
 
+![[Man's searching for meaning.png]]
+
 ##  [[quotes]]
 
 **Torments** - great pain and suffering 

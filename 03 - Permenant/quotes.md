@@ -8,6 +8,9 @@ Tags: #book
 
 
 # quotes
+
+![[Man's searching for meaning.png]]
+
 ### *He who has a why to live can bear with almost any how*
 
 #### A man can get used to anything, but do not ask us how
