@@ -15,7 +15,7 @@ customization. Just swap out the color variable names in the prefix groups.
 
 :root {
   /* ================================ Colors ================================ */
-  --red: #e22c3c;                /* Default Prefix: None */
+  --red: #f38ba8 ;                /* Default Prefix: None */
   --red-orange: #e9404b;         /* Default Prefix: None */
   --orange: #ee6748;             /* Default Prefix: None */
   --amber: #fa9f50;              /* Default Prefix: None */
@@ -69,7 +69,7 @@ customization. Just swap out the color variable names in the prefix groups.
 
 /* All Folder Titles */
 .nav-folder-title {
-  font-weight: bold;
+  font-weight: 1000;
   border-radius: 5px;
 }
 

@@ -1,0 +1,37 @@
+/* .workspace-tab-header-inner-icon{ */
+/*   visibility: hidden; */
+/* } */
+
+.workspace-tab-header-new-tab {
+  visibility: hidden;
+}
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before, .nav-folder .nav-folder-title .nav-folder-title-content::before {
+  margin-right : 0px;
+  visibility: hidden;
+}
+
+
+/* Hide the collapse icon beside folders in the file explorer */
+.tree-item-icon.collapse-icon {
+  display: none !important;
+}
+
+/* Optional: align folder text properly after icon removal */
+.nav-folder-title-content {
+  /* padding-left: 0.5em !important; */
+}
+/* .tree-item-self, .nav-folder-title, .is-clickable, .mod-collapsible { */
+/*   padding-left : 0px; */
+/* } */
+.tree-item-self, .mod-collapsible {
+  padding-left : 0px;
+}
+
+
+.nav-folder-title {
+  padding-left : 0px;
+}
+.workspace-tab-header-inner-title {
+  font-size : 100px;
+  color : #cba6f7;
+}
