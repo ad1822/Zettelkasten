@@ -22,33 +22,9 @@ dv.el("div", `<div class="breadcrumbs-wrapper">${content}</div>`); // needs DV-b
 
 ```
 
-```contributionGraph
-title: ""
-graphType: month-track
-dateRangeValue: 1
-dateRangeType: LATEST_MONTH
-startOfWeek: 0
-showCellRuleIndicators: true
-titleStyle:
-  textAlign: center
-  fontSize: 15px
-  fontWeight: normal
-dataSource:
-  type: PAGE
-  value: ""
-  dateField:
-    type: FILE_MTIME
-  filters: []
-  countField:
-    type: DEFAULT
-fillTheScreen: false
-enableMainContainerShadow: false
-cellStyleRules: []
-
-```
 ```dataviewjs
 // === Recent Notes Section ===
-dv.el("h4", " Recent Notes", { cls: "recent-header" });
+dv.el("h4", " Recent Notes ", { cls: "recent-header" });
 
 const recent = dv.pages()
   .sort(p => p.file.mtime, 'desc')

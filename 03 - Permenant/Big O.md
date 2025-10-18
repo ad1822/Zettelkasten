@@ -39,3 +39,5 @@ N = 10000, O(10N) = 100,000, O(N^2) = 100,000,000 // 1000x bigger
 
 ---
 ## References
+
+-- [[Time complexity of every function in go and c++]]

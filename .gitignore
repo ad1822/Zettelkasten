@@ -2,3 +2,5 @@
 .stignore
 .obsidian/*
 !.obsidian/snippets
+!.obsidian/themes
+.trash/

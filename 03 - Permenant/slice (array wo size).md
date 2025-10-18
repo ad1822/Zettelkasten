@@ -35,3 +35,4 @@ from my understanding, slices aren't array or like an array. It's pointer of und
 --- [[append]]
 
 --- ![[array and slice functionally in memory]]
+--- [[Array]]
