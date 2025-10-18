@@ -18,7 +18,9 @@
 /* } */
 
 
-
+.prompt-results {
+  background-color : #11111b !important;
+}
 
 .tree-item-self, .mod-collapsible {
   padding-left : 0px;

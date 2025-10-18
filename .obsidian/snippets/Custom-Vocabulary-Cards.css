@@ -1,0 +1,36 @@
+.callout[data-callout="word"]>.callout-title {
+  display: none !important;
+}
+
+.callout[data-callout="word"] {
+  border: 1px solid var(--background-modifier-border);
+  display: inline-block;
+  border-radius: 14px;
+  padding: 14px 18px;
+  margin: 12px 0;
+  background-color: var(--background-secondary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.callout[data-callout="word"]:hover {
+  /* transform: translateY(-3px); */
+  /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18); */
+}
+
+/* Word title */
+.callout[data-callout="word"] strong:first-of-type {
+  display: block;
+  font-size: 1.2em;
+  color: var(--text-accent);
+  margin-bottom: 6px;
+  text-transform: capitalize;
+}
+
+/* Word meaning */
+.callout[data-callout="word"] p {
+  margin: 0;
+  font-size: 0.95em;
+  color: var(--text-normal);
+  line-height: 1.4;
+}
