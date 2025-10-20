@@ -1,6 +1,5 @@
 ---
 ---
-
 ```dataviewjs
 const dailyFolder = "04 - Daily/";
 const dateFormat = "yyyy-MM-dd";
@@ -40,6 +39,7 @@ for (const page of recent) {
 
   row.appendChild(link);
   container.appendChild(row);
+
 }
 ```
 ```dataviewjs
@@ -51,7 +51,6 @@ dv.taskList(
     .sort(t => t.path, 'asc')
 );
 ```
----
 ```dataviewjs
 // Create container (Needs Tag-Edit snippet)
 dv.el("h2", "Tags", { cls: "section-header" });
@@ -93,3 +92,7 @@ for (let tag of sortedTags) {
 }
 
 ```
+---
+
+
+![[Table.base]]

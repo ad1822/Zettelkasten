@@ -9,12 +9,15 @@ Tags: #Daily
 ## Daily Note
 ### <% tp.date.now("dddd, MMMM Do, YYYY") %>
 
-#### What I worked on
+> [!success]+ **What I worked on**
+> - 
+> - 
+> - 
 
-#### To-Do
+> [!todo]+ **To-Do**
+> - [ ] 
+> - [ ] 
+> - [ ] 
 
-#### Personal thoughts
-
-#### References
 
 ---
