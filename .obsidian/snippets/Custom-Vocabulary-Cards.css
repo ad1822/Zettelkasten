@@ -1,36 +1,56 @@
-.callout[data-callout="word"]>.callout-title {
+.callout[data-callout="note"] .callout-title svg {
   display: none !important;
 }
 
-.callout[data-callout="word"] {
-  border: 1px solid var(--background-modifier-border);
+.callout[data-callout="note"] {
+  border: none;
   display: inline-block;
-  border-radius: 14px;
-  padding: 14px 18px;
-  margin: 12px 0;
-  background-color: var(--background-secondary);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  border-radius: 2px;
+  padding: 18px 22px;
+  margin: 16px 0;
+  background-color: #d2b48c;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  font-family: "Georgia", "Times New Roman", serif;
 }
 
-.callout[data-callout="word"]:hover {
-  /* transform: translateY(-3px); */
-  /* box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18); */
+.callout[data-callout="note"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
 }
 
-/* Word title */
-.callout[data-callout="word"] strong:first-of-type {
+/* note title */
+.callout[data-callout="note"] strong:first-of-type {
   display: block;
-  font-size: 1.2em;
-  color: var(--text-accent);
-  margin-bottom: 6px;
+  color: #000000;
+  margin-bottom: 8px;
+  font-size: 1.3em;
   text-transform: capitalize;
 }
 
-/* Word meaning */
-.callout[data-callout="word"] p {
+/* note meaning */
+.callout[data-callout="note"] p {
   margin: 0;
-  font-size: 0.95em;
-  color: var(--text-normal);
-  line-height: 1.4;
+  font-size: 1em;
+  color: #2b2418;
+  line-height: 1.5;
+}
+
+.callout[data-callout="note"] strong:first-of-type::first-letter {
+  font-size: 1.4em;
+  float: left;
+  line-height: 0.9;
+  /* padding-right: 6px; */
+  font-weight: 700;
+}
+
+
+.callout,
+.callout[data-callout="note"] p {
+  margin: 0;
+  font-size: 1em;
+  color: #000000;
+  /* force black */
+  line-height: 1.5;
+  font-family: "Georgia", "Times New Roman", serif;
 }

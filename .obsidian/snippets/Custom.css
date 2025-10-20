@@ -1,14 +1,48 @@
 .workspace-tab-header-new-tab {
   visibility: hidden;
 }
-.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before, .nav-folder .nav-folder-title .nav-folder-title-content::before {
-  margin-right : 0px;
+
+.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before,
+.nav-folder .nav-folder-title .nav-folder-title-content::before {
+  margin-right: 0px;
   visibility: hidden;
 }
 
+.inline-title {
+  display: flex;
+  justify-content: center;
+  --inline-title-color: #a6e3a1;
+}
+
+.view-header-title-parent,
+.view-header-breadcrumb-separator,
+.view-header-title {
+  display: none;
+}
 
 .tree-item-icon.collapse-icon {
   display: none !important;
+}
+
+
+.workspace-tab-header-inner-title {
+  /* margin-top: 10px !important; */
+  font-size: 18px !important;
+  color: #cba6f7 !important;
+}
+
+
+.workspace-tab-header-inner-icon,
+.workspace-tab-header-inner-close-button {
+  display: none !important;
+}
+
+body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(1)>div>div.workspace-tab-header-inner-icon,
+body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(2)>div>div.workspace-tab-header-inner-icon,
+body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(3)>div>div.workspace-tab-header-inner-icon {
+  color: #cba6f7 !important;
+  /* CHANGE THIS TO 'flex' (or 'block'/'inline-block') to show the icon */
+  display: flex !important;
 }
 
 /* .tree-item-inner,  */
@@ -19,14 +53,14 @@
 
 
 .prompt-results {
-  background-color : #11111b !important;
+  background-color: #11111b !important;
 }
 
-.tree-item-self, .mod-collapsible {
-  padding-left : 0px;
+.tree-item-self,
+.mod-collapsible {
+  padding-left: 0px;
 }
 
 .nav-folder-title {
-  padding-left : 0px;
+  padding-left: 0px;
 }
-

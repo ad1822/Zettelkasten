@@ -8,10 +8,14 @@
 
 /* For notes with cssclasses: [center-titles] */
 .center-titles hr {
-  border: none;              /* remove default */
-  border-top: 2px double #a6e3a1     !important ; /* custom line */
-  margin: auto auto;        /* spacing */
-  width: 60% !important;                /* shorter line */
+  border: none;
+  /* remove default */
+  border-top: 2px double #a6e3a1 !important;
+  /* custom line */
+  margin: auto auto;
+  /* spacing */
+  width: 60% !important;
+  /* shorter line */
 }
 
 h1 {
@@ -19,12 +23,32 @@ h1 {
 }
 
 input[type="checkbox"] {
-  border-radius : 100%;
-  background-color : white;
+  appearance: none;
+  -webkit-appearance: none;
+  width: 1.05rem;
+  height: 1.05rem;
+  border: 2px solid #c6bfa9;
+  /* subtle paper border */
+  border-radius: 4px;
+  background-color: #f9f8f3;
+  /* paper-like background */
+  cursor: pointer;
+  position: relative;
+  transition: all 0.15s ease-in-out;
 }
 
-.image-borders img {
+/* Hover state */
+input[type="checkbox"]:hover {
+  border-color: #9b9784;
+  background-color: none;
 }
+
+/* Checked state */
+input[type="checkbox"]:checked {
+  background-color: #d1d1d1;
+  border-color: #b5b5b5;
+}
+
 
 .markdown-preview-view img {
   max-width: 100%;
@@ -53,16 +77,13 @@ img {
   border-width: 1em;
   border-width: 2px;
   border-radius: 20px;
-  border-color: #f38ba8 ;
+  border-color: #f38ba8;
   display: block !important;
-  filter: brightness(1.05) 
-  contrast(1.1) 
-  saturate(1.1) 
-  sepia(0.1) 
-  hue-rotate(-5deg);
+  filter: brightness(1.05) contrast(1.1) saturate(1.1) sepia(0.1) hue-rotate(-5deg);
   margin-left: auto !important;
   margin-right: auto !important;
-  width: 400px; /* Sets a fixed width of 300 pixels */
+  width: 400px;
+  /* Sets a fixed width of 300 pixels */
   height: auto;
 }
 
@@ -78,7 +99,7 @@ img {
 .center-titles h1,
 .center-titles .HyperMD-header.HyperMD-header-1 {
   text-align: center;
-  color: #f38ba8 ;
+  color: #f38ba8;
   /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
@@ -92,35 +113,35 @@ img {
 .center-titles h2,
 .center-titles .HyperMD-header.HyperMD-header-2 {
   text-align: center;
-  color: #f9e2af ;
+  color: #f9e2af;
   /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h3,
 .center-titles .HyperMD-header.HyperMD-header-3 {
   text-align: center;
-  color: #a6e3a1 ;
+  color: #a6e3a1;
   /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h4,
 .center-titles .HyperMD-header.HyperMD-header-4 {
   text-align: center;
-  color: #b4befe ;
+  color: #b4befe;
   /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h5,
 .center-titles .HyperMD-header.HyperMD-header-5 {
   text-align: center;
-  color: #94e2d5 ;
+  color: #94e2d5;
   /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
 .center-titles h6,
 .center-titles .HyperMD-header.HyperMD-header-6 {
   text-align: center;
-  color: #74c7ec ;
+  color: #74c7ec;
   /* font-family: "Bai Jamjuree", "Iosevka Nerd Font", "JetBrains Mono"; */
 }
 
