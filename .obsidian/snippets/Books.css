@@ -147,7 +147,15 @@ img {
 .page-manila .HyperMD-header.HyperMD-header-2 {
   /* text-align: center; */
   color: black !important;
-  font-family: "Georgia", "Times New Roman", serif;
+  text-transform: capitalize;
+  font-family: "Georgia",
+    "Times New Roman",
+    serif;
+}
+
+.page-manila h2::first-letter,
+.page-manila .HyperMD-header.HyperMD-header-2::first-letter {
+  size: 100px;
 }
 
 .page-manila h3,
@@ -205,20 +213,3 @@ img {
   font-size: 1.4em;
   /* adjust heading size */
 }
-
-
-
-/* .page-manila h3, */
-/* .page-manila .HyperMD-header.HyperMD-header-3 { */
-/*   text-align: left; */
-/*   background-color: #d2b48c; */
-/*   color: #000000; */
-/*   font-family: "Georgia", "Times New Roman", serif; */
-/*   font-weight: 600; */
-/*   font-size: 1.4em; */
-/*   padding: 18px 16px; */
-/*   border-radius: 8px; */
-/*   /* line-height: 1.3; */
-/*   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1); */
-/*   margin: 0px 50px; */
-/* } */

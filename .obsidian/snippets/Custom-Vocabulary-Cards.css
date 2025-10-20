@@ -10,13 +10,14 @@
   margin: 16px 0;
   background-color: #d2b48c;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.3s ease, box-shadow 0.2s ease;
   font-family: "Georgia", "Times New Roman", serif;
 }
 
 .callout[data-callout="note"]:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+  transform: translateY(-10px);
+  box-shadow: 0 100px 100px rgba(0, 0, 0, 0.18);
+  border-radius: 5px;
 }
 
 /* note title */
@@ -24,8 +25,17 @@
   display: block;
   color: #000000;
   margin-bottom: 8px;
-  font-size: 1.3em;
+  font-size: 1.2em;
   text-transform: capitalize;
+}
+
+
+.callout[data-callout="note"] strong:first-of-type::first-letter {
+  font-size: 1.4em;
+  /* float: left; */
+  line-height: 0.9;
+  /* padding-right: 6px; */
+  font-weight: 1000;
 }
 
 /* note meaning */
@@ -36,13 +46,6 @@
   line-height: 1.5;
 }
 
-.callout[data-callout="note"] strong:first-of-type::first-letter {
-  font-size: 1.4em;
-  float: left;
-  line-height: 0.9;
-  /* padding-right: 6px; */
-  font-weight: 700;
-}
 
 
 .callout,

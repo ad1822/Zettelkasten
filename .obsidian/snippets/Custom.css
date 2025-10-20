@@ -2,11 +2,11 @@
   visibility: hidden;
 }
 
-.nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before,
-.nav-folder .nav-folder-title .nav-folder-title-content::before {
-  margin-right: 0px;
-  visibility: hidden;
-}
+/* .nav-folder.is-collapsed .nav-folder-title .nav-folder-title-content::before, */
+/* .nav-folder .nav-folder-title .nav-folder-title-content::before { */
+/*   margin-right: 0px; */
+/*   visibility: hidden; */
+/* } */
 
 .inline-title {
   display: flex;
@@ -20,9 +20,9 @@
   display: none;
 }
 
-.tree-item-icon.collapse-icon {
-  display: none !important;
-}
+/* .tree-item-icon.collapse-icon { */
+/*   display: none !important; */
+/* } */
 
 
 .workspace-tab-header-inner-title {
@@ -37,11 +37,12 @@
   display: none !important;
 }
 
-body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(1)>div>div.workspace-tab-header-inner-icon,
-body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(2)>div>div.workspace-tab-header-inner-icon,
-body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(3)>div>div.workspace-tab-header-inner-icon {
-  color: #cba6f7 !important;
-  /* CHANGE THIS TO 'flex' (or 'block'/'inline-block') to show the icon */
+body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-left-split>div.workspace-tabs.mod-top.mod-top-left-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(n)>div>div.workspace-tab-header-inner-icon {
+  /* color: #cba6f7 !important; */
+  display: flex !important;
+}
+
+body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mod-sidedock.mod-right-split>div.workspace-tabs.mod-top.mod-top-right-space>div.workspace-tab-header-container>div.workspace-tab-header-container-inner>div:nth-child(n)>div>div.workspace-tab-header-inner-icon {
   display: flex !important;
 }
 
@@ -56,11 +57,11 @@ body>div>div.horizontal-main-container>div>div.workspace-split.mod-horizontal.mo
   background-color: #11111b !important;
 }
 
-.tree-item-self,
-.mod-collapsible {
-  padding-left: 0px;
-}
+/* .tree-item-self, */
+/* .mod-collapsible { */
+/*   padding-left: 0px; */
+/* } */
 
-.nav-folder-title {
-  padding-left: 0px;
-}
+/* .nav-folder-title { */
+/*   padding-left: 0px; */
+/* } */

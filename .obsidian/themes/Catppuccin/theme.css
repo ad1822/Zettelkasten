@@ -312,7 +312,7 @@ body {
   --nav-item-background-hover: var(--background-modifier-hover);
   --nav-item-background-active: var(--background-modifier-hover);
   --nav-item-background-selected: hsl(var(--color-accent-hsl), 20%);
-  --nav-item-padding: var(--size-4-1) var(--size-4-2) var(--size-4-1) 0px;
+  --nav-item-padding: var(--size-4-1) var(--size-4-2) var(--size-4-1) var(--size-4-6);
   --nav-item-parent-padding: var(--nav-item-padding);
   --nav-item-children-padding-left: var(--size-2-2);
   --nav-item-children-margin-left: var(--size-4-3);
