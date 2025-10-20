@@ -10,14 +10,7 @@ Tags: #Daily
 ### <% tp.date.now("dddd, MMMM Do, YYYY") %>
 
 > [!success]+ **What I worked on**
-> - 
-> - 
-> - 
 
 > [!todo]+ **To-Do**
-> - [ ] 
-> - [ ] 
-> - [ ] 
-
 
 ---

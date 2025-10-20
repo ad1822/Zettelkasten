@@ -23,7 +23,7 @@ dv.el("h2", "Recent Notes ", { cls: "recent-header" });
 
 const recent = dv.pages()
   .sort(p => p.file.mtime, 'desc')
-  .slice(0, 5);
+  .slice(0, 10);
 
 const container = dv.el("div", "", { cls: "recent-files-container" });
 
@@ -94,5 +94,5 @@ for (let tag of sortedTags) {
 ```
 ---
 
-
+![[Books.base]]
 ![[Table.base]]

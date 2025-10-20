@@ -1,9 +1,10 @@
 views:
-  - type: cards
+  - type: table
     name: Table
     order:
-      - file.name
-      - file.links
+      - file.ctime
+      - file.basename
+      - file.backlinks
       - file.tags
     sort:
       - property: file.tags
@@ -17,18 +18,19 @@ views:
     cardSize: 170
     imageFit: contain
     imageAspectRatio: 1.2
+    columnSize:
+      file.ctime: 70
   - type: cards
     name: View
     filters:
-      and:
-        - file.ext.endsWith("png")
-        - file.fullname.startsWith("Man")
+      or:
+        - file.name.startsWith("Man's")
+        - and:
+            - file.name.contains("fuck")
     order:
       - file.name
-    sort:
-      - property: file.path
-        direction: ASC
-    cardSize: 120
+    sort: []
+    cardSize: 170
     image: file.file
     imageFit: contain
     imageAspectRatio: 1.1
