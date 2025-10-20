@@ -3,67 +3,86 @@ h2 {
   /* text-align: center; */
   font-weight: 1000;
   margin-bottom: 0.3em;
-  color:  #f38ba8 !important;;
+  color: #f38ba8 !important;
+  ;
 }
 
 hr {
-  border: none;              /* remove default */
-  border-top: 2px double #a6e3a1     !important ; /* custom line */
-  margin: 1.5em auto;        /* spacing */
-  width: 60%;                /* shorter line */
+  border: none;
+  /* remove default */
+  border-top: 2px double #a6e3a1 !important;
+  /* custom line */
+  margin: 1.5em auto;
+  /* spacing */
+  width: 60%;
+  /* shorter line */
 }
 
 /* ==== RECENT FILES ==== */
+
 .recent-files-container {
   display: flex;
-  flex-direction: column;
-  justify-content : center;
-  align-items : start;
-  gap: 6px;
-  padding: 8px 12px;
-  background-color: var(--background-primary-alt);
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  overflow-y: auto;
+  gap: 8px;
+  padding: 10px 14px;
   border-radius: 8px;
-  border-left: 2px solid var(--color-accent);
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  max-width: 100%;
 }
 
-.recent-header {
-  margin-bottom: 8px;
-  font-size: 1.05em;
-  /* color: var(--text-normal); */
-  border-bottom: 1px solid var(--background-modifier-border);
-  padding-bottom: 4px;
-  letter-spacing: 0.25px;
-}
-
+/* Each file entry box */
 .recent-file-row {
+  /* flex: 1 1 calc(20% - 8px); */
+  /* 5 per row */
+  /* min-width: 150px; */
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  padding: 4px 8px;
+  /* padding: 6px 10px; */
   border-radius: 6px;
   transition: all 0.18s ease;
 }
 
+/* Hover animation */
 .recent-file-row:hover {
   background-color: var(--background-modifier-hover);
-  transform: translateX(4px);
+  transform: translateY(-2px);
 }
 
+/* Filename styling */
 .recent-file {
-  /* color: var(--link-color); */
   text-decoration: none;
   font-weight: 500;
+  /* background-color: #1e1e2e; */
+  padding: 6px;
+  border-radius: 10px;
   font-size: 0.95em;
+  color: var(--link-color);
 }
 
+/* Hover underline for link */
 .recent-file:hover {
   text-decoration: underline;
 }
 
+/* Date or meta info */
 .recent-date {
   font-size: 0.8em;
-  /* color: var(--text-muted); */
+  color: var(--text-muted);
+}
+
+/* Header styling */
+.recent-header {
+  width: 100%;
+  margin-bottom: 8px;
+  font-size: 1.05em;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 4px;
+  letter-spacing: 0.25px;
+  text-align: center;
 }
 
 /* ==== TASKS ==== */
@@ -136,7 +155,7 @@ ul.contains-task-list {
 
 .breadcrumbs-wrapper {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 /* TAGS */
@@ -162,8 +181,8 @@ ul.contains-task-list {
   padding: 4px 8px;
   border-radius: 4px;
   background-color: color-mix(in srgb,
-  var(--interactive-accent) 50%,
-  black);
+      var(--interactive-accent) 50%,
+      black);
   --tag-color: var(--text-on-accent);
   --tag-background: transparent;
   color: var(--text-on-accent) !important;
@@ -180,5 +199,3 @@ ul.contains-task-list {
   --tag-background-hover: transparent;
   background-color: var(--interactive-accent);
 }
-
-

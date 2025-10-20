@@ -192,12 +192,23 @@ img {
   --inline-title-color: black !important;
 }
 
-.page-manila strong {
-  color: black;
-  font-weight: bold;
-  /* optional, usually already bold */
-  font-family: "Georgia", "Times New Roman", serif;
-  /* optional for page style */
+/* Live preview bold */
+.page-manila .cm-strong {
+  color: brown !important;
+  font-weight: 700;
+}
+
+/* Live preview italic */
+.page-manila .cm-em {
+  color: #d0d0d0 !important;
+  font-style: italic;
+}
+
+/* Bold + Italic combo */
+.page-manila .cm-strong.cm-em {
+  color: #ffb347 !important;
+  font-weight: 800;
+  font-style: italic;
 }
 
 .page-manila h3 {
@@ -212,4 +223,10 @@ img {
   line-height: 1.3;
   font-size: 1.4em;
   /* adjust heading size */
+}
+
+
+.page-manila * {
+  font-family: "Georgia", "Times New Roman", serif;
+  color: #000000 !important;
 }

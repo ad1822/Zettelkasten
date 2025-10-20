@@ -46,6 +46,19 @@
   line-height: 1.5;
 }
 
+/* Remove hover border for callouts in editing mode (Live Preview) */
+.cm-callout:hover,
+.cm-callout.cm-embed-block:hover {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Also remove the default border that appears even without hover */
+.cm-callout,
+.cm-callout.cm-embed-block {
+  border: none !important;
+  box-shadow: none !important;
+}
 
 
 .callout,
