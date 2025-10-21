@@ -8,7 +8,7 @@ Tags: #book, #Mans-Search-for-Meaning
 # vocabulary
 
 ![[Man's searching for meaning.png]]
-##  [[thoughts]]
+##  [[insights]]
 
 > [!multi-column]
 >
@@ -197,4 +197,43 @@ Tags: #book, #Mans-Search-for-Meaning
 >
 >> [!note]+ **exhort** 
 >> To urge; to advise earnestly.
+>
+>> [!note]+ **cripple** 
+>> (now rare, dated) crippled
+>
+>> [!note]+ **sterile** 
+>> (not comparable) Unable to reproduce (or procreate).
+>
+>> [!note]+ **mephistophelean** 
+>> Alternative letter-case form of Mephistophelean
+>
+>> [!note]+ **panacea** 
+>> A remedy believed to cure all disease and prolong life that was originally sought by alchemists; a cure-all.
+>
+>> [!note]+ **triad** 
+>> A grouping of three.
+>
+>> [!note]+ **vein** 
+>> (anatomy) A blood vessel that transports blood from the capillaries back to the heart.
+>
+>> [!note]+ **prone** 
+>> Lying face-down.
+>
+>> [!note]+ **facet** 
+>> Any one of the flat surfaces cut into a gem.
+>
+>> [!note]+ **espouse** 
+>> (transitive) To marry.
+>
+>> [!note]+ **accord** 
+>> Agreement or concurrence of opinion, will, or action.
+>
+>> [!note]+ **triumph** 
+>> A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conquest.
+>
+>> [!note]+ **indispensable** 
+>> (ecclesiastical, obsolete) Not admitting ecclesiastical dispensation; not subject to release or exemption; that cannot be allowed by bending the canonical rules.
+>
+>> [!note]+ **dawn** 
+>> (intransitive) To begin to brighten with daylight.
 >

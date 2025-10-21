@@ -95,4 +95,7 @@ for (let tag of sortedTags) {
 ---
 
 ![[Books.base]]
+
+---
+
 ![[Table.base]]

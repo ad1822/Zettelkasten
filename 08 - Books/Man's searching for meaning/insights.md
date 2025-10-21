@@ -17,11 +17,9 @@ Tags: #book, #Mans-Search-for-Meaning
 A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits for him, or to an unfinished work, will never be able to throw away his life. He knows the "why" for his existence, and will be able to bear almost any "how."
 ### That which does not kill me, makes me stronger
 ---
-
-I said that someone looks down on each us in difficult hours-a friend, a wife, some-body alive or dead, or a God-and he would not expect us to disappoint him. He would hope to find us suffering proudly-not miserably-knowing how to die
+I said that someone looks down on each us in difficult hours-a friend, a wife, some-body alive or dead, or a God-and he would not expect us to disappoint him. **He would hope to find us suffering proudly-not miserably-knowing how to die**
 
 --- 
-
 It was in the nature of this sacrifice that it should appear to be pointless in the normal world, the world of material success.
 But in reality our sacrifice did have a meaning.
 ### Existential frustration
@@ -37,25 +35,21 @@ so author is trying to say that what is called a self actualization is not an at
 2. By experience in something or encountering someone 
 3. By attitude we take towards unavoidable suffering
 ---
-
 For, in the past, nothing is irretrievably lost but everything as soon as irrevocably stored
 
 ---
 ### Transitoriness
 Transitoriness means the quality of being temporary, short-lived, or not lasting.
-
 In essence, it describes the impermanence of things — how moments, experiences, people, or conditions change or fade with time.
 ##### For example:
 - The transitoriness of youth reminds us to make the most of our time.
 - Youth doesn’t last forever; it passes.
 ---
 ### **Having been** is the surest kind of being 
-
 what has truly been experienced and lived, no one can take away. The quote emphasizes that while future circumstances are uncertain, a person's past experiences, accomplishments, thoughts, and suffering become a permanent part of them and define their "being". 
 
 ---
 ### Hyper-intention
-
 The excessive or over-focused effort to achieve something that paradoxically prevents you from achieving it.
 
 Example: A person who tries too hard to fall asleep or to be relaxed usually ends up staying awake or tense.
@@ -64,7 +58,6 @@ Frankl’s view: Stop forcing outcomes; focus on meaning and engagement instead.
 
 ---
 ### Hyper-reflection
-
 Excessive self-observation or self-analysis that leads to paralysis or anxiety.
 Example: Someone who constantly analyzes whether they’re being confident or not ends up becoming self-conscious and anxious instead.
 Core idea: Overthinking yourself disrupts natural behavior and flow.
@@ -72,7 +65,6 @@ Frankl’s view: The cure lies in self-transcendence — shifting attention away
 
 ---
 ### Paradoxical intention
-
 where a person deliberately tries to do or experience the very thing they fear or want to avoid.
 ##### Key points:
 **Purpose**: To break the cycle of fear, anxiety, or avoidance.
@@ -84,11 +76,33 @@ Example 2: Someone with stage fright tells themselves, “I will try to tremble 
 - This technique is rooted in the same principle as hyper-intention: trying too hard produces the opposite effect, so paradoxically aiming for the feared outcome reduces tension.
 
 ---
+### Man does not leave by  welfare alone 
+---
+### Tragic triad
+a tragic optimism." In brief it means that one is, and remains, optimistic in spite of the "tragic triad," as it is called in logotherapy, a triad which consists of those aspects of human existence which may be circumscribed by: (1) pain; (2) guilt; and (3) death.
+
+---
+### Optimisum
+what matters is to make the best of any given situation. "The best," however, is that which in Latin is called Optimum hence the reason I speak of a tragic optimism, that is, an optimism in the face of tragedy and in view of the human potential which at its best always allows for: (1) turning suffering into a human achievement and accomplishment; (2) deriving from guilt the opportunity to change oneself for the better; and (3) deriving from life's transitoriness an incentive to take responsible action.
+
+---
+### A human being is not one in pursuit of happiness but rather in search of a reason to become happy
+
+---
+### Suffering is all we could do in hopeless situation
+even the helpless victim of a hopeless situation, facing a fate he cannot comp may rise above himself, may grow beyond hamad and by so doing change himself. He may turn A personal tragedy into a triumph
+
+---
+### Can't ignore suffering, Part of life
+I know that without the suffering, the growth that I have achieved would have been impossible." course in college. I believe that
+Is this to say that suffering is indispensable to the discovery of meaning?
+
+---
+
 
 
 
 ---
-
 ## References
 
 --- [[08 - Books/Man's searching for meaning/vocabulary]]

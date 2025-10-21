@@ -20,4 +20,4 @@ I am building a compiler in go
 ---
 ## References
 
-https://www.youtube.com/watch?v=QdnxjYj1pS0
+![](https://www.youtube.com/watch?v=QdnxjYj1pS0)

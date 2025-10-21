@@ -1,6 +1,6 @@
 views:
   - type: cards
-    name: Card
+    name: Book
     filters:
       and:
         - file.ext == "png"
@@ -8,6 +8,7 @@ views:
             - file.path.contains("Books")
     order:
       - file.name
-    cardSize: 110
+    cardSize: 140
     imageFit: contain
     image: file.file
+    imageAspectRatio: 1.6
