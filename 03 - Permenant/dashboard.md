@@ -98,4 +98,7 @@ for (let tag of sortedTags) {
 
 ---
 
-![[Table.base]]
+<!-- ![[Table.base]] -->
+
+
+![[things done by me.md]]

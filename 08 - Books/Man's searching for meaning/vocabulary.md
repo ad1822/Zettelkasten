@@ -237,3 +237,14 @@ Tags: #book, #Mans-Search-for-Meaning
 >> [!note]+ **dawn** 
 >> (intransitive) To begin to brighten with daylight.
 >
+>> [!note]+ **sewn** 
+>> past participle of sew
+>
+>> [!note]+ **crematorium** 
+>> A place where the bodies of dead people are cremated.
+>
+>> [!note]+ **inevitable** 
+>> Impossible to avoid or prevent.
+>> [!note]+ **reinforcement** 
+>> (uncountable) The act, process, or state of reinforcing or being reinforced.
+>
