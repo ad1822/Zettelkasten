@@ -3,7 +3,7 @@ cssclasses:
   - center-images
   - center-titles
 ---
-Tags: #aws
+Tags: #aws #network 
 
 # VPC
 
@@ -36,8 +36,8 @@ Tags: #aws
 ![[route table.png]]
 
 ### VPC sharing 
+
 - Enables customers to share subnets with other AWS accounts  
-![[Pasted image 20241029171511.png]]
 
 ### VPC peering 
  - Connect VPCs 
@@ -52,7 +52,6 @@ Tags: #aws
 
 
 
-Sure! Here's the simplest explanation of AWS networking basics:
 
 ### 1. **VPC (Virtual Private Cloud)**
    - Think of it as your **own private section of AWS cloud** where you can place servers (EC2), databases (RDS), etc.
@@ -98,14 +97,12 @@ Sure! Here's the simplest explanation of AWS networking basics:
 - **NACL**: Blocks bad IPs at the subnet level.
 
 ### **Summary**
-| Component       | What It Does |
-|----------------|-------------|
-| **VPC** | Your private cloud space in AWS. |
-| **Subnet** | Divides VPC into public/private networks. |
-| **Internet Gateway** | Lets public subnets talk to the internet. |
-| **NAT Gateway** | Lets private subnets access the internet safely. |
-| **Route Table** | Decides where traffic goes (like a GPS). |
-| **Security Group** | Firewall for EC2 (instance-level). |
-| **NACL** | Extra subnet-level firewall (optional). |
-
-This is a simplified version—AWS networking has more details, but this covers the basics! 🚀
+| Component            | What It Does                                     |
+| -------------------- | ------------------------------------------------ |
+| **VPC**              | Your private cloud space in AWS.                 |
+| **Subnet**           | Divides VPC into public/private networks.        |
+| **Internet Gateway** | Lets public subnets talk to the internet.        |
+| **NAT Gateway**      | Lets private subnets access the internet safely. |
+| **Route Table**      | Decides where traffic goes (like a GPS).         |
+| **Security Group**   | Firewall for EC2 (instance-level).               |
+| **NACL**             | Extra subnet-level firewall (optional).          |

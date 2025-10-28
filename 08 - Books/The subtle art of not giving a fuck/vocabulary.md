@@ -7,7 +7,7 @@ Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 # vocabulary
 
-![[The subtle art of not giving a fuck.png]]
+![[The Subtle Art of Not Giving a Fck.jpg]] 
 
 
 > [!multi-column]

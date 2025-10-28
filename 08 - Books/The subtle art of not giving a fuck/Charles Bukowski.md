@@ -8,7 +8,7 @@ Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 # Charles Bukowski
 
 
-![[The subtle art of not giving a fuck.png]]
+![[The Subtle Art of Not Giving a Fck.jpg]]
 
 
 # Don't Try

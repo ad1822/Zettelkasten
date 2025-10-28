@@ -78,13 +78,13 @@ Tags: #network
 ---
 
 ### **Comparison with TCP/IP & OSI Models**  
-| **5-Layer Model** | **TCP/IP Model** | **OSI Model** |  
-|-------------------|------------------|---------------|  
-| Physical | (Not separate) | Physical (L1) |  
-| Data Link | Network Access | Data Link (L2) |  
-| Network | Internet | Network (L3) |  
-| Transport | Transport | Transport (L4) |  
-| Application | Application | Session (L5) + Presentation (L6) + Application (L7) |  
+| **5-Layer Model** | **TCP/IP Model** | **OSI Model**                                       |     |
+| ----------------- | ---------------- | --------------------------------------------------- | --- |
+| Physical          | (Not separate)   | Physical (L1)                                       |     |
+| Data Link         | Network Access   | Data Link (L2)                                      |     |
+| Network           | Internet         | Network (L3)                                        |     |
+| Transport         | Transport        | Transport (L4)                                      |     |
+| Application       | Application      | Session (L5) + Presentation (L6) + Application (L7) |     |
 
 
 

@@ -4,7 +4,7 @@ cssclasses:
   - center-titles
 ---
 Created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
-Tags: #dsa 
+Tags: #
 <%*
 let filename = tp.file.title
 if ( filename.startsWith("Untitled") ) {
@@ -12,7 +12,6 @@ if ( filename.startsWith("Untitled") ) {
   await tp.file.rename(filename)
 }
 %>
-
 # <% filename %>
 
 

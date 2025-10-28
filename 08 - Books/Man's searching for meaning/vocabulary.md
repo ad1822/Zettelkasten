@@ -7,7 +7,7 @@ Tags: #book, #Mans-Search-for-Meaning
 
 # vocabulary
 
-![[Man's searching for meaning.png]]
+![[Man's Search For Meaning.jpg]]
 ##  [[insights]]
 
 > [!multi-column]

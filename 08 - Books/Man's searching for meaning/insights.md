@@ -6,8 +6,7 @@ Created: Thursday 16th October 2025 15:14:08
 Tags: #book, #Mans-Search-for-Meaning
 
 # insights 
-
-![[Man's searching for meaning.png]]
+![[Man's Search For Meaning.jpg]]
 
 ### He who has a why to live can bear with almost anyhow
 

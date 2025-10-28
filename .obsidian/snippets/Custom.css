@@ -23,3 +23,26 @@
 body>div>div.status-bar>div.status-bar-item.plugin-soundscapes.soundscapesroot>input[type=range] {
   display: none;
 }
+
+
+/* Resize YouTube thumbnails in embedded link previews */
+.external-embed[src*="youtube.com"],
+.external-embed[src*="youtu.be"] {
+  width: 100%;
+  /* or 80%, 400px — as you like */
+  max-width: 300px;
+  /* limits how wide it grows */
+  height: auto;
+  /* maintain aspect ratio */
+  aspect-ratio: 16 / 9;
+  /* border-radius: 10px; */
+  /* optional */
+  overflow: hidden;
+}
+
+/* Center the thumbnail block */
+/* .external-embed[src*="youtube.com"], */
+/* .external-embed[src*="youtu.be"] { */
+/*   display: block; */
+/*   margin: 1em auto; */
+/* } */

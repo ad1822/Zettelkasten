@@ -3,22 +3,25 @@ cssclasses:
   - center-images
   - center-titles
 ---
+
 # go
 
---- [[types of variables]]
 
---- [[fmt package]]
-
---- [[functions]]
-
---- [[struct]]
-
---- [[interface]]
-
---- [[errors]]
-
---- [[slice (array wo size)]]
-
---- [[map]]
-
---- [[03 - Permenant/pointers]]
+- [[Advantages of go]]
+- [[Big O]]
+- [[Memory management]]
+- [[mutex]]
+- [[struct]]
+- [[anonymous function]]
+- [[concurrency vs parallelism]]
+- [[Time complexity of every function in go and c++]]
+- [[fmt package]]
+- [[functions]]
+- [[RW mutex]]
+- [[struct alignment]]
+- [[thread safe]]
+- [[variadic]]
+- [[range]]
+- [[errors]]
+- [[defer]]
+- [[closures]]

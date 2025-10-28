@@ -7,7 +7,7 @@ Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 # insights
 
-![[The subtle art of not giving a fuck.png]]
+![[The Subtle Art of Not Giving a Fck.jpg]]
 
 
 ### We don't need to fix ourselves
@@ -34,4 +34,9 @@ We now reserve out dwindling fucks for the most truly fuck-worthy parts of lives
 
 ---
 
-[[practical enlightenment]]
+[[Practical enlightenment]]
+[[Happiness is a problem]]
+[[Emotions]]
+[[Struggle]]
+[[We are not special]]
+[[Shitty values]]

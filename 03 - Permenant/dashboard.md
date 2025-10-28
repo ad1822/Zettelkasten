@@ -94,11 +94,9 @@ for (let tag of sortedTags) {
 ```
 ---
 
-![[Books.base]]
+![[Books list.md]]
 
 ---
-
-<!-- ![[Table.base]] -->
 
 
 ![[things done by me.md]]

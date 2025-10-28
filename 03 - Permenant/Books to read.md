@@ -11,8 +11,15 @@ Tags: #book
 
 The expectation effect 
 The subtle of not giving a fuck
-The mosquito 
+Tthe mosquito 
 The mountain is you 
+
+### Something chaotic
+
+Beyond Good and Evil
+“The Road” – Cormac McCarthy
+“The Myth of Sisyphus” – Albert Camus
+“Less Than Zero” – Bret Easton Ellis
 
 
 ---

@@ -15,5 +15,5 @@ if ( filename.startsWith("Untitled") ) {
 # <% filename %>
 
 
-![[<% tp.file.folder(true).split("/").pop() %>.png]]
+<!-- ![[<% tp.file.folder(true).split("/").pop() %>.png]] -->
 
