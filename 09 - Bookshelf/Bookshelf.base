@@ -1,0 +1,18 @@
+formulas:
+  properties: formula.properties
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "09 - Bookshelf/covers"
+        - file.ext == "jpg"
+    order: []
+    sort:
+      - property: file.basename
+        direction: ASC
+    cardSize: 120
+    image: file.file
+    imageFit: ""
+    imageAspectRatio: 1.5
+    rowHeight: medium

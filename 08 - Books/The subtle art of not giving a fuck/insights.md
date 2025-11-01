@@ -18,9 +18,11 @@ Fixation on the positive-on what's better, what's superior-only serves to remind
 **Either you are or you are not**. And if you're dreaming of something all the time, then you're reinforcing the same unconscious reality over and over: **that you are not that**
 
 [[The backward low]]
+
 ### The desire for more positive experience is itself a negative experience. And paradoxically, the acceptance of one's negative experience is itself a positive experience
 
 ---
+
 ### Don't give a shit about unimportant thing, and Find something true that matters and give a fuck about that.
 Too many things, doesn't right to get a fuck about, So reserve your fuck to important thing
 Find the shit you enjoy dealing with
@@ -33,6 +35,19 @@ Find the shit you enjoy dealing with
 We now reserve out dwindling fucks for the most truly fuck-worthy parts of lives: our families, our best friends
 
 ---
+### Sometimes life sucks, and the healthiest thing you can do is admit it
+Constant positivity is a form avoidance, not a valid solution of life's problem
+
+---
+### What is life !! 
+Life is about not knowing and then doing something anyway. All life is like this. It never changes. Even when you're happy. Even when you're farting fairy dust. Even when you win the lottery and buy a small fleet of Jet Skis, you still won't know what the hell you're doing. Don't ever forget that. And don't ever be afraid of that.
+
+---
+### Forget who you are !!
+
+
+---
+## References
 
 [[Practical enlightenment]]
 [[Happiness is a problem]]
@@ -40,3 +55,10 @@ We now reserve out dwindling fucks for the most truly fuck-worthy parts of lives
 [[Struggle]]
 [[We are not special]]
 [[Shitty values]]
+[[You are always choosing]]
+[[You are wrong about everything]]
+[[Certainty]]
+[[Values]]
+[[Kill yourself]]
+[[Failure is the way forward]]
+[[Freedom]]

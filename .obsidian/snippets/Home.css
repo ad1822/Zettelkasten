@@ -56,10 +56,10 @@ hr {
 .recent-file {
   text-decoration: none;
   font-weight: 500;
-  /* background-color: #1e1e2e; */
+  background-color: #1e1e2e;
   padding: 6px;
-  border-radius: 10px;
-  font-size: 0.95em;
+  border-radius: 6px;
+  font-size: 0.75em;
   color: var(--link-color);
 }
 

@@ -7,5 +7,5 @@ publishdate: {{publishDate}}
 pages: {{totalPage}}
 cover: {{coverUrl}}
 date read:
-status:
+status: to read
 ---

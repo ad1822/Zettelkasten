@@ -114,3 +114,15 @@ Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 >> [!note]+ **unravel** 
 >> To cause (something) to no longer be ravelled or tangled; to disentangle, to untangle.
 >
+>> [!note]+ **dissipate** 
+>> (transitive) To drive away, disperse.
+>
+>> [!note]+ **dysfunction** 
+>> (chiefly medicine) A failure to function in an expected or complete manner. Usually refers to a disorder in a bodily organ (e.g. erectile dysfunction), a mental disorder, or the improper behavior of a social group.
+>
+>> [!note]+ **foster** 
+>> Providing parental care to children not related to oneself.
+>
+>> [!note]+ **inevitable** 
+>> Impossible to avoid or prevent.
+>

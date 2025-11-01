@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("04 - Daily")
+    order:
+      - file.name
+    imageAspectRatio: 0.3
+    rowHeight: medium
+    cardSize: 130

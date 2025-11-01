@@ -94,9 +94,12 @@ for (let tag of sortedTags) {
 ```
 ---
 
-![[Books list.md]]
+![[../09 - Bookshelf/Bookshelf.base|Bookshelf]]
 
 ---
 
 
 ![[things done by me.md]]
+
+
+![[../08 - Books/The subtle art of not giving a fuck/THE ART.canvas|THE ART]]

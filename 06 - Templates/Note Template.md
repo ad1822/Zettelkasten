@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
-Created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
 Tags: #
 <%*
 let filename = tp.file.title

@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - page-manila
+created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
 ---
-Created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
 Tags: #book, #<% tp.file.folder(true).split("/").pop().replace(/\s+/g, "-").replace(/['".,!?;:()]/g, "") %>
 <%*
 let filename = tp.file.title

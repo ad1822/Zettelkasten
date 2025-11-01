@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"363b7ae30d8b1118","type":"text","text":"## Emotions\n\nSignals, not commands. They reveal alignment or misalignment with your values.  \n_Pain and joy both point to what truly matters._","x":-1080,"y":-206,"width":285,"height":240},
+		{"id":"e73925989d58ece4","type":"text","text":"## Success\n\nAlignment between your actions, values, and chosen metrics — not external approval.  \n_True success feels quiet, not loud._","x":880,"y":-1291,"width":322,"height":246},
+		{"id":"6cba6d0cc62b2001","type":"text","text":"## Problem\n\nA gap between current state and desired state.  \n_Solving problems gives life motion and meaning._","x":-1280,"y":-1006,"width":263,"height":205},
+		{"id":"a0d5ffca439de48d","type":"text","text":"## Pain\n\nThe unavoidable currency of growth.\n_You can’t eliminate it, only choose which pain is worth enduring._","x":-937,"y":-801,"width":260,"height":242},
+		{"id":"1251c552e0e11c04","type":"text","text":"## Why ? \n\nYour reason — the axis of meaning.  \n_When you have a “why,” you can bear almost any “how.”_","x":410,"y":-1376,"width":285,"height":208},
+		{"id":"bd898a95b4ad2226","type":"text","text":"## Brain\n\nThe pattern-seeking, meaning-making engine that constructs your reality.  \n_It reacts to beliefs and metrics, not pure truth._","x":-84,"y":-1226,"width":271,"height":220},
+		{"id":"a4d9ef59186a0a07","type":"text","text":"## Belief\n\nYour internal story about what’s true or possible.  \n_Beliefs shape perception; perception shapes experience._","x":921,"y":34,"width":240,"height":248},
+		{"id":"a36bfaf95256543f","type":"text","text":"## Suffer\n\nThe tension between what is and what you wish it were.  \n_Suffering becomes meaningful when tied to a purpose._","x":265,"y":-353,"width":290,"height":246},
+		{"id":"d463771149ccd546","type":"text","text":"## Metrics\n\nThe measures you use to judge success or failure.  \n_Bad metrics (money, fame) create emptiness; good metrics (growth, integrity, contribution) create fulfillment._","x":1440,"y":-680,"width":360,"height":280},
+		{"id":"378d4902bf26130b","type":"text","text":"## Values\n\nPrinciples you live by — the standards guiding your decisions, identity, and what you deem worth caring about.  \n_Foundation of meaning._","x":-373,"y":400,"width":289,"height":230},
+		{"id":"88aa12723c6691cd","type":"text","text":"## Happiness\n\nNot a constant feeling, but a byproduct of pursuing meaningful struggle.  \n_You don’t find happiness — you earn it through purpose._","x":-76,"y":-903,"width":280,"height":245},
+		{"id":"01ac29d9f834da01","type":"text","text":"## Happiness\n\nNot a constant feeling, but a byproduct of pursuing meaningful struggle.  \n_You don’t find happiness — you earn it through purpose._","x":-93,"y":-903,"width":280,"height":245},
+		{"id":"addb7f5f85c7a36b","type":"text","text":"## Responsibility\n\nOwning your response to life, regardless of circumstances.  \n_Freedom begins when blame ends._\n","x":-640,"y":-1680,"width":255,"height":219},
+		{"id":"f6fcda7a4bf3e096","type":"text","text":"## Who am I ?\n\nThe ongoing process of defining your values and the struggles you’re willing to face.  \n_Identity is not found; it’s built through choices and responsibility._","x":-120,"y":-374,"width":305,"height":288,"color":"1"}
+	],
+	"edges":[
+		{"id":"59bf36f84c47c8ca","fromNode":"f6fcda7a4bf3e096","fromSide":"bottom","toNode":"378d4902bf26130b","toSide":"top","label":"defined by what I care about"},
+		{"id":"be5b42ef5864fbdd","fromNode":"378d4902bf26130b","fromSide":"right","toNode":"a4d9ef59186a0a07","toSide":"left","label":"supported by internal stories"},
+		{"id":"17b90ba9987cf59d","fromNode":"a4d9ef59186a0a07","fromSide":"right","toNode":"d463771149ccd546","toSide":"left","label":"measured through chosen standards"},
+		{"id":"912e283379362616","fromNode":"d463771149ccd546","fromSide":"bottom","toNode":"e73925989d58ece4","toSide":"top","label":"alignment of right metrics = true success"},
+		{"id":"74dc3eefe4a9f661","fromNode":"378d4902bf26130b","fromSide":"left","toNode":"363b7ae30d8b1118","toSide":"right","label":"signals of alignment or conflict with your values"},
+		{"id":"03b3abab06649164","fromNode":"a0d5ffca439de48d","fromSide":"left","toNode":"363b7ae30d8b1118","toSide":"top","label":"pain as signal of growth or misalignment"},
+		{"id":"09abb21a0c361d6b","fromNode":"d463771149ccd546","fromSide":"left","toNode":"363b7ae30d8b1118","toSide":"top","label":"revealed through how outcomes make you feel"},
+		{"id":"ad17bfb227ff7a00","fromNode":"363b7ae30d8b1118","fromSide":"right","toNode":"bd898a95b4ad2226","toSide":"left","label":"emotions signal brain what to prioritize"},
+		{"id":"41b7964e31d60517","fromNode":"a4d9ef59186a0a07","fromSide":"top","toNode":"bd898a95b4ad2226","toSide":"right","label":"constructs and filters reality"},
+		{"id":"675431e5ac943556","fromNode":"bd898a95b4ad2226","fromSide":"right","toNode":"a4d9ef59186a0a07","toSide":"top","label":"belief shaped by brain’s interpretation"},
+		{"id":"25ee497f20bea540","fromNode":"363b7ae30d8b1118","fromSide":"bottom","toNode":"6cba6d0cc62b2001","toSide":"left","label":"emotional misalignment creates problems"},
+		{"id":"5c60c295cdc1b9c3","fromNode":"378d4902bf26130b","fromSide":"left","toNode":"6cba6d0cc62b2001","toSide":"right","label":"every value creates opposing challenges"},
+		{"id":"b3743f1460050103","fromNode":"6cba6d0cc62b2001","fromSide":"top","toNode":"addb7f5f85c7a36b","toSide":"left","label":"taking ownership of response"},
+		{"id":"738b89dd9a26397a","fromNode":"addb7f5f85c7a36b","fromSide":"right","toNode":"1251c552e0e11c04","toSide":"top","label":"clarifies purpose behind action"},
+		{"id":"01ed8adfa8b717ea","fromNode":"1251c552e0e11c04","fromSide":"bottom","toNode":"a36bfaf95256543f","toSide":"top","label":"gives meaning to struggle"},
+		{"id":"4bc2105245b9d4e1","fromNode":"a0d5ffca439de48d","fromSide":"right","toNode":"88aa12723c6691cd","toSide":"top","label":"happiness emerges when chosen pain serves purpose"},
+		{"id":"2098faff2fea25ce","fromNode":"6cba6d0cc62b2001","fromSide":"top","toNode":"bd898a95b4ad2226","toSide":"left","label":"problems processed through brain’s lens"},
+		{"id":"076eb0c6174c40c6","fromNode":"bd898a95b4ad2226","fromSide":"right","toNode":"e73925989d58ece4","toSide":"left","label":"mindset and perception influence success"}
+	]
+}
