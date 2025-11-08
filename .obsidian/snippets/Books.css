@@ -198,6 +198,12 @@ img {
   font-weight: 700;
 }
 
+
+.page-manila .em,
+.page-manila .cm-em {
+  --italic-color: brown !important;
+}
+
 /* Live preview italic */
 .page-manila .cm-em {
   color: #d0d0d0 !important;

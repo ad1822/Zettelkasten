@@ -1,22 +1,7 @@
-/* === RECENT FILES PANEL === */
 h2 {
-  /* text-align: center; */
-  font-weight: 1000;
   margin-bottom: 0.3em;
-  color: #f38ba8 !important;
-  ;
 }
 
-hr {
-  border: none;
-  /* remove default */
-  border-top: 2px double #a6e3a1 !important;
-  /* custom line */
-  margin: 1.5em auto;
-  /* spacing */
-  width: 60%;
-  /* shorter line */
-}
 
 /* ==== RECENT FILES ==== */
 
@@ -48,7 +33,7 @@ hr {
 
 /* Hover animation */
 .recent-file-row:hover {
-  background-color: var(--background-modifier-hover);
+  /* background-color: var(--background-modifier-hover); */
   transform: translateY(-2px);
 }
 
@@ -56,11 +41,10 @@ hr {
 .recent-file {
   text-decoration: none;
   font-weight: 500;
-  background-color: #1e1e2e;
   padding: 6px;
   border-radius: 6px;
   font-size: 0.75em;
-  color: var(--link-color);
+  /* color: var(--link-color); */
 }
 
 /* Hover underline for link */
@@ -71,7 +55,6 @@ hr {
 /* Date or meta info */
 .recent-date {
   font-size: 0.8em;
-  color: var(--text-muted);
 }
 
 /* Header styling */
@@ -135,7 +118,7 @@ ul.contains-task-list {
   font-size: 0.9em;
   font-weight: 500;
   text-decoration: none !important;
-  color: var(--text-normal);
+  /* color: var(--text-normal); */
   background-color: var(--background-modifier-hover);
   border: 1px solid var(--background-modifier-border);
   transition: all 0.2s ease-in-out;
@@ -144,7 +127,7 @@ ul.contains-task-list {
 /* Hover and active states */
 .elegant-btn.ready:hover {
   /* background-color: var(--interactive-accent); */
-  color: var(--text-on-accent);
+  /* color: var(--text-on-accent); */
   transform: translateY(-1px);
 }
 

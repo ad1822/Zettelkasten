@@ -10,7 +10,7 @@
 }
 
 .status-bar {
-  background-color: rgba(17, 17, 27, 0.8) !important;
+  /* background-color: rgba(17, 17, 27, 0.8) !important; */
   /* font-size: 10px; */
   padding: 0px !important;
   padding-bottom: 0px !important;
