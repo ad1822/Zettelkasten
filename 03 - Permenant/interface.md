@@ -15,3 +15,5 @@ They can help you write more flexible and reusable code by defining behaviors (l
 
 ---
 ## References
+
+[[struct vs interface]]

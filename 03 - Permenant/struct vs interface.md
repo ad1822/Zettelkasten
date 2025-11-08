@@ -28,5 +28,3 @@ In other words, an interface defines what methods should be implemented by any t
 
 Interface behave like a polymorphism
 
----
-## References

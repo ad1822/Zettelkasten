@@ -15,5 +15,4 @@ if ( filename.startsWith("Untitled") ) {
 # <% filename %>
 
 
-<!-- ![[<% tp.file.folder(true).split("/").pop() %>.png]] -->
-
+![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]

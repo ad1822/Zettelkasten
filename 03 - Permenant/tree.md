@@ -17,5 +17,18 @@ leaves - a node without children
 balanced - A tree is perfectly balanced when any node's left and right children have the same height.
 branching factor - the amount of children a tree has.
 
+### Types of trees
+
+[[binary tree]]
+[[binary search tree]]
+
 ---
 ## References
+
+![[types of traversal in tree.png]]
+
+| Operation | Binary Tree | Binary Search Tree (average case) |
+| --------- | ----------- | --------------------------------- |
+| Search    | O(n)        | O(log n)                          |
+| Insertion | O(n)        | O(log n)                          |
+| Deletion  | O(n)        | O(log n)                          |

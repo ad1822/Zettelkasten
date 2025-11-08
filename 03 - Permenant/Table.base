@@ -1,11 +1,12 @@
 views:
-  - type: cards
+  - type: table
     name: Table
     order:
-      - file.ctime
       - file.basename
+      - file.ctime
+      - file.embeds
       - file.backlinks
-      - file.tags
+      - file.ext
     sort:
       - property: file.tags
         direction: DESC
@@ -19,7 +20,7 @@ views:
     imageFit: contain
     imageAspectRatio: 1.2
     columnSize:
-      file.ctime: 70
+      file.ctime: 199
   - type: cards
     name: View
     filters:
