@@ -2,14 +2,13 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 22:57:49
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked, #hope
 
 
 # Hope is fucked
 
-
-![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]
 ### Talking too much about yourself can also be a means to conceal yourself
 
 ---

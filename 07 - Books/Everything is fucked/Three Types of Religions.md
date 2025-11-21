@@ -2,6 +2,7 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 22:38:42
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked, #chapter-summary, #religion
 

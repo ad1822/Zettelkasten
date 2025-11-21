@@ -2,13 +2,11 @@
 cssclasses:
   - page-manila
 created: Wednesday 29th October 2025 21:25:02
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 # Freedom
-
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
 
 ### More is always better, That's not true. More is less, Less is enough and good for human.
 The older you get, the more experienced you get, the less significantly each new experience affects you.

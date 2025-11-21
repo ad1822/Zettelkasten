@@ -2,14 +2,12 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 21:08:40
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked
 
 
 # The classic Assumption
-
-
-![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]
 
 #### I'd rather have the problem of passion with the bottle than have no passion at all
 

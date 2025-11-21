@@ -2,14 +2,12 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 20:44:54
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked
 
 
 # hope
-
-
-![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]
 
 ### Bravery vs. Heroism
 Bravery is common, Resilience is common, But Heroism has a philosophical component to it.

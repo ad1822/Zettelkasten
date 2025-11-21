@@ -2,13 +2,11 @@
 cssclasses:
   - page-manila
 created: Wednesday 29th October 2025 20:48:01
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck, #values 
 
 # Certainty
-
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
 
 ### Certainty is the enemy of growth
 Certainty is the enemy of growth. Nothing is for certain until it has already happened and even then, it's still debatable. That's why accepting the inevitable imperfections of our values is necessary for any growth to take place.

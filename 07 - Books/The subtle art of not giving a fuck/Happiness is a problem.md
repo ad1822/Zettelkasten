@@ -1,16 +1,12 @@
 ---
 cssclasses:
   - page-manila
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Created: Saturday 25th October 2025 20:29:39
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck, #struggle , #happiness 
 
-
 # Happiness is a problem
-
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
-
 
 ---
 ### There is no value in suffering when it's done without purpose

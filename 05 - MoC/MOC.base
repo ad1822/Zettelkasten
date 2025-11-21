@@ -1,0 +1,10 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.path.startsWith("05 - MoC")
+    order:
+      - file.name
+    cardSize: 210
+    imageAspectRatio: 0.8

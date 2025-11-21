@@ -2,15 +2,10 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 20:42:55
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked
-
-
 # MoC
-
-
-![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]
-
 [[hope]]
 [[Self-control is an illusion]]
 [[Newtons laws of emotion]]

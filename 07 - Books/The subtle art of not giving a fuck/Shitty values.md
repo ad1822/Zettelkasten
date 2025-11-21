@@ -1,6 +1,7 @@
 ---
 cssclasses:
   - page-manila
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Created: Saturday 25th October 2025 21:03:46
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck
@@ -8,8 +9,6 @@ Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 # Shitty values
 
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
 ### Some of shitty value measurement
 1. Pleasure
 2. Material success

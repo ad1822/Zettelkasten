@@ -2,13 +2,11 @@
 cssclasses:
   - page-manila
 created: Wednesday 29th October 2025 21:05:29
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck, #values
 
 # Kill yourself
-
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
 
 ### When we let go of the story we tell about ourselves, to ourselves, we free ourselves up to actually act (and fail) and grow.
 Buddhism argues that your idea of who “you” are is an arbitrary mental construction and that you should let go o the idea that “you” exist at all; that the arbitrary metrics b which you define yourself actually trap you, and thus you're better off letting go of everything. In a sense, you could say that Buddhism encourages you to not give a fuck.

@@ -2,14 +2,12 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 21:37:36
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked
 
 
 # 2nd Law Of Emotion
-
-![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]
-
 
  **“Our self-worth equals the sum of our emotions over time.”** This law suggests that our sense of self-worth is not a fixed trait but rather an accumulation of our emotional experiences and how we interpret them throughout our lives. As individuals encounter various situations, they form judgments about themselves based on these occurrences.
 

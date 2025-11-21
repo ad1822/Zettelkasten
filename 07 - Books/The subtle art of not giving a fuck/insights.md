@@ -1,14 +1,12 @@
 ---
 cssclasses:
   - page-manila
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Created: Tuesday 21st October 2025 23:59:42
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 # insights
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
-
 
 ### We don't need to fix ourselves
 Fixation on the positive-on what's better, what's superior-only serves to remind us over and over again of what we are not, of what we lack, of what we should have been but failed to be. After all, no truly happy person feels the need to stand in front of a mirror and recite that, she's happy. She just is.

@@ -1,4 +1,4 @@
-Tags: #topic, #ai-summary
+Tags: #philosophy 
 
 ## Philipp Mainländer: Philosophical Pessimism
 

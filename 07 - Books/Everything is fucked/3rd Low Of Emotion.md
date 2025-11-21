@@ -2,13 +2,12 @@
 cssclasses:
   - page-manila
 created: Tuesday 4th November 2025 21:42:50
+cover: http://books.google.com/books/content?id=XYdgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Tags: #book, #Everything-is-fucked
 
 
 # 3rd Law Of Emotion
-
-![[../../08 - Bookshelf/covers/Everything Is Fcked.jpg]]
 
  **“Your Identity Will Stay Your Identity Until a New Experience Acts Against It.”** This law posits that our values are not merely a collection of feelings, but rather deeply ingrained stories or narratives that we construct about ourselves. Once these narratives are formed, we tend to hold onto them tightly, and they become fundamental to our identity.
 

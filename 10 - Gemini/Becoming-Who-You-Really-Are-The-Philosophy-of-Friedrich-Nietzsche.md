@@ -1,4 +1,4 @@
-Tags: #topic, #ai-summary
+Tags: #philosophy , #nietzsche 
 
 # Becoming Who You Really Are - The Philosophy of Friedrich Nietzsche
 

@@ -1,11 +1,23 @@
 views:
-  - type: cards
+  - type: feed
     name: Table
     filters:
       and:
         - file.path.startsWith("04 - Daily")
     order:
       - file.name
+      - file.links
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.links
+        direction: DESC
     imageAspectRatio: 0.3
-    rowHeight: medium
-    cardSize: 130
+    cardSize: 210
+    columnSize:
+      file.name: 192
+    showProperties: false
+    multipleColumns: false
+    maxCardWidth: 800
+    markers: none
+    image: file.file

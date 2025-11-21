@@ -1,15 +1,12 @@
 ---
 cssclasses:
   - page-manila
+cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Created: Thursday 23rd October 2025 00:19:12
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 # the backward low
-
-
-![[../../08 - Bookshelf/covers/The Subtle Art of Not Giving a Fck.jpg]]
-
 
 The idea that the more you pursue feeling better all the time, the less satisfied you become, as pursuing something only reinforces the fact that you lack it in the first place
 

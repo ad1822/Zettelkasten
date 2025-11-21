@@ -12,4 +12,7 @@ Tags: #Daily
 
 #### To-Do
 
+
+#### Any thoughts 
+
 ---

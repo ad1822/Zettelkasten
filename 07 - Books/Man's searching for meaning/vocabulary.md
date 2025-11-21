@@ -1,13 +1,13 @@
 ---
 cssclasses:
   - page-manila
+cover: http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
 Created: Thursday 16th October 2025 15:04:52
 Tags: #book, #Mans-Search-for-Meaning
 
 # vocabulary
 
-![[../../08 - Bookshelf/covers/Man's Search For Meaning.jpg]]
 ##  [[insights]]
 
 > [!multi-column]

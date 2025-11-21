@@ -9,11 +9,11 @@
 		{"id":"a4d9ef59186a0a07","type":"text","text":"## Belief\n\nYour internal story about what’s true or possible.  \n_Beliefs shape perception; perception shapes experience._","x":921,"y":34,"width":240,"height":248},
 		{"id":"a36bfaf95256543f","type":"text","text":"## Suffer\n\nThe tension between what is and what you wish it were.  \n_Suffering becomes meaningful when tied to a purpose._","x":265,"y":-353,"width":290,"height":246},
 		{"id":"d463771149ccd546","type":"text","text":"## Metrics\n\nThe measures you use to judge success or failure.  \n_Bad metrics (money, fame) create emptiness; good metrics (growth, integrity, contribution) create fulfillment._","x":1440,"y":-680,"width":360,"height":280},
-		{"id":"378d4902bf26130b","type":"text","text":"## Values\n\nPrinciples you live by — the standards guiding your decisions, identity, and what you deem worth caring about.  \n_Foundation of meaning._","x":-373,"y":400,"width":289,"height":230},
 		{"id":"88aa12723c6691cd","type":"text","text":"## Happiness\n\nNot a constant feeling, but a byproduct of pursuing meaningful struggle.  \n_You don’t find happiness — you earn it through purpose._","x":-76,"y":-903,"width":280,"height":245},
 		{"id":"01ac29d9f834da01","type":"text","text":"## Happiness\n\nNot a constant feeling, but a byproduct of pursuing meaningful struggle.  \n_You don’t find happiness — you earn it through purpose._","x":-93,"y":-903,"width":280,"height":245},
 		{"id":"addb7f5f85c7a36b","type":"text","text":"## Responsibility\n\nOwning your response to life, regardless of circumstances.  \n_Freedom begins when blame ends._\n","x":-640,"y":-1680,"width":255,"height":219},
-		{"id":"f6fcda7a4bf3e096","type":"text","text":"## Who am I ?\n\nThe ongoing process of defining your values and the struggles you’re willing to face.  \n_Identity is not found; it’s built through choices and responsibility._","x":-120,"y":-374,"width":305,"height":288,"color":"1"}
+		{"id":"f6fcda7a4bf3e096","type":"text","text":"## Who am I ?\n\nThe ongoing process of defining your values and the struggles you’re willing to face.  \n_Identity is not found; it’s built through choices and responsibility._","x":-120,"y":-374,"width":305,"height":288,"color":"1"},
+		{"id":"378d4902bf26130b","type":"text","text":"## Values\n\nPrinciples you live by — the standards guiding your decisions, identity, and what you deem worth caring about.  \n_Foundation of meaning._","x":-365,"y":480,"width":289,"height":230}
 	],
 	"edges":[
 		{"id":"59bf36f84c47c8ca","fromNode":"f6fcda7a4bf3e096","fromSide":"bottom","toNode":"378d4902bf26130b","toSide":"top","label":"defined by what I care about"},
