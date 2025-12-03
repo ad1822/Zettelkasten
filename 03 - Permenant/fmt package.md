@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-23]]"
 ---
-Created: Tuesday 23rd September 2025 17:10:00
 Tags: #golang 
 
 # fmt package

@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-10-16]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Thursday 16th October 2025 08:56:09
 Tags: #golang 
 
 

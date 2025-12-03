@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-24]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Wednesday 24th September 2025 15:21:24
 Tags: #golang 
 
 # struct vs interface

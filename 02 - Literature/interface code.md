@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[../03 - Permenant/04 - Daily/2025-09-24]]"
 ---
-Created: Wednesday 24th September 2025 15:53:07
 Tags: #golang , #code
 
 # interface code

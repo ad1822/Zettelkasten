@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-10-28]]"
 ---
-Created: Tuesday 28th October 2025 09:05:17
 Tags: #compiler, #resources
 
 # Compiler Resources

@@ -1,10 +1,10 @@
 ---
+created: "[[04 - Daily/2025-09-23]]"
 cssclasses:
   - center-titles
   - center-images
   - image-borders
 ---
-Created: Tuesday 23rd September 2025 15:45:16
 Tags: #golang 
 
 # interpreted vs compiled vs vm

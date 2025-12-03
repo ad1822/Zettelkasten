@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-27]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Saturday 27th September 2025 14:32:32
 Tags: #golang 
 
 # range

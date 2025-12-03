@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-25]]"
 ---
-Created: Thursday 25th September 2025 00:33:52
 Tags: #golang 
 
 # append

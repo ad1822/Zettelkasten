@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - page-manila
-created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
+created: "[[<% tp.date.now("YYYY-MM-DD") %>]]"
 cover:
 ---
 Tags: #book, #<% tp.file.folder(true).split("/").pop().replace(/\s+/g, "-").replace(/['".,!?;:()]/g, "") %>

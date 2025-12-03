@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-27]]"
 ---
-Created: Saturday 27th September 2025 16:49:05
 Tags: #golang 
 
 # concurrency vs parallelism

@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - page-manila
-created: Tuesday 4th November 2025 21:07:27
+created: "[[../../03 - Permenant/04 - Daily/2025-11-04]]"
 ---
 Tags: #book, #Everything-is-fucked
 

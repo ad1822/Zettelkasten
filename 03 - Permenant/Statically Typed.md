@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-23]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Tuesday 23rd September 2025 16:19:43
 Tags: #golang 
 
 # Statically Typed

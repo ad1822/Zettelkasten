@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-24]]"
 ---
-Created: Wednesday 24th September 2025 10:05:46
 Tags: #golang 
 
 # struct alignment

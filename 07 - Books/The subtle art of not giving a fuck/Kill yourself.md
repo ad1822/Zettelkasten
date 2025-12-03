@@ -1,10 +1,10 @@
 ---
 cssclasses:
   - page-manila
-created: Wednesday 29th October 2025 21:05:29
+created: "[[../../03 - Permenant/04 - Daily/2025-10-29]]"
 cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 ---
-Tags: #book, #The-subtle-art-of-not-giving-a-fuck, #values
+Tags: #book, #The-subtle-art-of-not-giving-a-fuck, #values, #whoami 
 
 # Kill yourself
 

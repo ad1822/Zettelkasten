@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Tuesday 18th November 2025 08:05:47
+created: "[[04 - Daily/2025-11-18]]"
 ---
 Tags: #philosophy 
 

@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-26]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Friday 26th September 2025 16:47:15
 Tags: #golang 
 
 # pointers

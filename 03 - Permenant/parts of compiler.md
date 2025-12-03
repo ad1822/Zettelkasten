@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-22]]"
 ---
-Created:  22-09-2025, 16:59
 Tags: #compiler, , #golang
 
 # parts of compiler

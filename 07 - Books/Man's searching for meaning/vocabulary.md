@@ -2,8 +2,8 @@
 cssclasses:
   - page-manila
 cover: http://books.google.com/books/content?id=EbltAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+created: "[[../../03 - Permenant/04 - Daily/2025-10-16]]"
 ---
-Created: Thursday 16th October 2025 15:04:52
 Tags: #book, #Mans-Search-for-Meaning
 
 # vocabulary

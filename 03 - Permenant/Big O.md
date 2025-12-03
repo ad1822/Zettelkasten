@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-30]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Tuesday 30th September 2025 22:21:25
 Tags:  #dsa 
 
 # Big O

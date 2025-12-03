@@ -1,9 +1,9 @@
 ---
+created: "[[2025-10-01]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Wednesday 1st October 2025 16:20:24
 Tags: #dsa , #algo
 
 # Dutch national flag algorithm

@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-25]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Thursday 25th September 2025 00:27:47
 Tags: #golang 
 
 # variadic

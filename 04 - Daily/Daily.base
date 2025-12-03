@@ -1,23 +1,32 @@
+formulas:
+  Untitled: |
+    aliases
+  Untitled 2: ""
 views:
-  - type: feed
+  - type: table
     name: Table
     filters:
       and:
         - file.path.startsWith("04 - Daily")
     order:
       - file.name
-      - file.links
+      - file.backlinks
     sort:
       - property: file.name
         direction: ASC
-      - property: file.links
-        direction: DESC
-    imageAspectRatio: 0.3
+    imageAspectRatio: 0.25
     cardSize: 210
     columnSize:
-      file.name: 192
+      file.name: 95
     showProperties: false
     multipleColumns: false
     maxCardWidth: 800
     markers: none
-    image: file.file
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.folder.contains("Daily")
+    order:
+      - file.name
+      - file.backlinks

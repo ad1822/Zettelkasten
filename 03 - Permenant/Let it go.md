@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Sunday 16th November 2025 18:24:51
+created: "[[04 - Daily/2025-11-16]]"
 ---
 Tags: #philosophy, #nietzsche 
 
@@ -15,7 +15,6 @@ Nietzsche wants to say that... #the-backward-law
 - Hoping for better life, Just be it
 - Don't hope, Hope for journey #struggle 
 - Accept your life, Love your life #amorfati
-- 
 
 ---
 ## References

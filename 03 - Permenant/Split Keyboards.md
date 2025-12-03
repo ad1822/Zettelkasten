@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-10-18]]"
 ---
-Created: Saturday 18th October 2025 11:45:03
 Tags: #keyboard
 
 # Split Keyboards

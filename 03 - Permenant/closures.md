@@ -1,10 +1,10 @@
 ---
+created: "[[2025-09-26]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Friday 26th September 2025 10:28:03
-Tags: #golang 
+Tags: #golang
 
 # closures
 	

@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-28]]"
 ---
-Created: Sunday 28th September 2025 16:02:13
 Tags: #golang 
 
 # mutex

@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-24]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Wednesday 24th September 2025 16:06:25
 Tags: #golang 
 
 # errors

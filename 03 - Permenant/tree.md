@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Saturday 1st November 2025 15:58:04
+created: "[[04 - Daily/2025-11-01]]"
 ---
 Tags: #tree, #algo 
 

@@ -2,8 +2,8 @@
 cssclasses:
   - page-manila
 cover: http://books.google.com/books/content?id=yng_CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+created: "[[../../03 - Permenant/04 - Daily/2025-10-25]]"
 ---
-Created: Saturday 25th October 2025 20:48:49
 Tags: #book, #The-subtle-art-of-not-giving-a-fuck
 
 

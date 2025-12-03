@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Monday 17th November 2025 09:04:50
+created: "[[../03 - Permenant/04 - Daily/2025-11-17]]"
 ---
 Tags: #linux 
 

@@ -2,10 +2,9 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-27|2025-09-27]]"
 ---
-Created: Saturday 27th September 2025 17:23:59
 Tags:  #pc
-
 # pc cases
 
 Terra pc case

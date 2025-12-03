@@ -2,12 +2,14 @@
 cssclasses:
   - center-images
   - center-titles
-created: Wednesday 19th November 2025 21:04:21
+created: "[[../03 - Permenant/04 - Daily/2025-11-19]]"
 ---
-Tags: #
-
+Tags: #philosophy, #fleeting 
 # Survival is the way
 
+Why Survival is the way... 
+I am not talking about Survival in the external world. But I am talking about internal...
+Older we get, more experience we had, less happy and living we feel... World is going too fast, as our life too. If we search for happiness, we'd never found. We just have to enjoy little events, little talk. Don't have to find happiness in materials. And live as bare minimum requirement. By making life simple...
 
 
 ---

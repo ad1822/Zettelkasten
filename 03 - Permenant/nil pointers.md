@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-27]]"
 ---
-Created: Saturday 27th September 2025 14:40:04
 Tags: #golang 
 
 # nil pointers

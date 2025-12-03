@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: <% tp.date.now("dddd Do MMMM YYYY HH:mm:ss") %>
+created: "[[<% tp.date.now("YYYY-MM-DD") %>]]"
 ---
 Tags: #
 <%*

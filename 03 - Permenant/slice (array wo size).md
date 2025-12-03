@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-24]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Wednesday 24th September 2025 20:19:50
 Tags: #golang 
 
 # slice (array w/o size)

@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Sunday 16th November 2025 18:01:56
+created: "[[04 - Daily/2025-11-16]]"
 ---
 Tags: #philosophy 
 # The savers paradox 

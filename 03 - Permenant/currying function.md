@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-26]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Friday 26th September 2025 10:03:48
 Tags: #golang 
 
 # currying function

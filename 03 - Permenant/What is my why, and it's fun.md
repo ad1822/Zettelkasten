@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Wednesday 19th November 2025 14:47:47
+created: "[[04 - Daily/2025-11-19]]"
 ---
 Tags: #philosophy, #nihilism 
 

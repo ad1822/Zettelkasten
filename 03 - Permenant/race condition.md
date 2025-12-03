@@ -1,9 +1,9 @@
 ---
+created: "[[04 - Daily/2025-09-28]]"
 cssclasses:
   - center-images
   - center-titles
 ---
-Created: Sunday 28th September 2025 23:38:21
 Tags: #golang 
 
 # race condition

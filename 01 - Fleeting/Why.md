@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Friday 31st October 2025 05:12:01
+created: [[2025-10-31]]
 ---
 Tags: #nihilism
 

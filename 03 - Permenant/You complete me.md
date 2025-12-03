@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Sunday 16th November 2025 14:37:47
+created: "[[04 - Daily/2025-11-16]]"
 ---
 Tags: #love, #philosophy 
 # You complete me

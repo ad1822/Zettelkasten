@@ -2,8 +2,8 @@
 cssclasses:
   - center-images
   - center-titles
+created: "[[04 - Daily/2025-09-26]]"
 ---
-Created: Friday 26th September 2025 10:15:24
 Tags: #golang 
 
 # defer

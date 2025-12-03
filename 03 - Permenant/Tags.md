@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Thursday 13th November 2025 23:22:34
+created: "[[04 - Daily/2025-11-13]]"
 ---
 Tags: #tags
 

@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: Thursday 20th November 2025 16:29:55
+created: "[[04 - Daily/2025-11-20]]"
 ---
 Tags: #philosophy, #whoami 
 
