@@ -7,6 +7,7 @@ const dateFormat = "yyyy-MM-dd";
 // === BUILD PATHS ===
 const today = dv.date("today");
 const dailyPath = `${dailyFolder}${today.toFormat(dateFormat)}`;
+const calPath = `${dailyFolder}Account calculation.md`;
 
 // === BUTTONS ===
 let content = "";
@@ -14,6 +15,7 @@ content += `<a class="internal-link elegant-btn ready" href="${dailyPath}">Today
 
 // === OUTPUT ===
 dv.el("div", `<div class="breadcrumbs-wrapper">${content}</div>`); // needs DV-button snippet
+dv.el("div", `<div class="breadcrumbs-wrapper">${`<a class="internal-link elegant-btn ready" href="${calPath}">Account Calculation</a>`}</div>`); // needs DV-button snippet
 
 ```
 

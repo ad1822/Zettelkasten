@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: [[2025-11-23]]
+created: "[[04 - Daily/2025-11-23]]"
 ---
 Tags: #fleeting
 

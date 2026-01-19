@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: "[[../03 - Permenant/04 - Daily/2025-09-24]]"
+created: "[[../04 - Daily/2025-09-24|2025-09-24]]"
 ---
 Tags: #golang 
 

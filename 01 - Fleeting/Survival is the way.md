@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: "[[../03 - Permenant/04 - Daily/2025-11-19]]"
+created: "[[../04 - Daily/2025-11-19]]"
 ---
 Tags: #philosophy, #fleeting 
 # Survival is the way

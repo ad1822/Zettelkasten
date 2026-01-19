@@ -10,13 +10,13 @@ Tags: #network
 IP addresses are divided into **network ID** and **host ID**. The **address class system** defines how IP space is allocated.
 
 #### **Primary Address Classes**
-| Class | Network ID | Host ID | First Bits (Binary) | First Octet (Decimal) | Hosts per Network |
-|-------|------------|---------|----------------------|------------------------|-------------------|
-| **A** | First octet | Last 3 octets | `0` | **0–127** | 16,777,216 (2²⁴) |
-| **B** | First 2 octets | Last 2 octets | `10` | **128–191** | 65,536 (2¹⁶) |
-| **C** | First 3 octets | Last octet | `110` | **192–223** | 256 (2⁸) |
+| Class | Network ID     | Host ID       | First Bits (Binary) | First Octet (Decimal) | Hosts per Network |
+| ----- | -------------- | ------------- | ------------------- | --------------------- | ----------------- |
+| **A** | First octet    | Last 3 octets | `0`                 | **0–127**             | 16,777,216 (2²⁴)  |
+| **B** | First 2 octets | Last 2 octets | `10`                | **128–191**           | 65,536 (2¹⁶)      |
+| **C** | First 3 octets | Last octet    | `110`               | **192–223**           | 256 (2⁸)          |
 
-![[10_IP Classes.png]]
+![[../02 - Literature/10_IP Classes.png]]
 
 #### **Additional Classes**
 - **Class D** (Multicast):  

@@ -2,7 +2,7 @@
 cssclasses:
   - center-images
   - center-titles
-created: [[2025-11-24]]
+created: "[[2025-11-24]]"
 ---
 Tags: #fleeting, #philosophy 
 
